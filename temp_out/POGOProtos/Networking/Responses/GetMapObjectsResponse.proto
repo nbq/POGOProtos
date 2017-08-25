@@ -1,0 +1,23 @@
+syntax = "proto3";
+package POGOProtos.Networking.Responses;
+
+import "POGOProtos/Map/MapCell.proto";
+import "POGOProtos/Map/MapObjectsStatus.proto";
+
+message GetMapObjectsResponse {
+	repeated .POGOProtos.Map.MapCell map_cell = 1;
+	Status status = 2;
+	TimeOfDay time_of_day = 3;
+
+	enum Status {
+		UNSET = 0;
+		SUCCESS = 1;
+		LOCATION_UNSET = 2;
+	}
+
+	enum TimeOfDay {
+		NONE = 0;
+		DAY = 1;
+		NIGHT = 2;
+	}
+}

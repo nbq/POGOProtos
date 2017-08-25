@@ -1,0 +1,1233 @@
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Badge\AwardedGymBadge.proto
+GymBadgeType
+.POGOProtos.Enums.GymBadgeType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Badge\AwardedGymBadge.proto
+GymBadgeStats
+.POGOProtos.Data.Badge.GymBadgeStats
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Badge\AwardedGymBadge.proto
+PlayerRaidInfo
+.POGOProtos.Data.Raid.PlayerRaidInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\Battle.proto
+BattleParticipant
+.POGOProtos.Data.Battle.BattleParticipant
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\Battle.proto
+BattleLog
+.POGOProtos.Data.Battle.BattleLog
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\Battle.proto
+BattleParticipant
+.POGOProtos.Data.Battle.BattleParticipant
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleAction.proto
+BattleActionType
+.POGOProtos.Data.Battle.BattleActionType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleAction.proto
+BattleParticipant
+.POGOProtos.Data.Battle.BattleParticipant
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleAction.proto
+BattleResults
+.POGOProtos.Data.Battle.BattleResults
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleAction.proto
+BattleParticipant
+.POGOProtos.Data.Battle.BattleParticipant
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleLog.proto
+BattleState
+.POGOProtos.Data.Battle.BattleState
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleLog.proto
+BattleType
+.POGOProtos.Data.Battle.BattleType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleLog.proto
+repeated BattleAction
+repeated .POGOProtos.Data.Battle.BattleAction
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleParticipant.proto
+BattlePokemonInfo
+.POGOProtos.Data.Battle.BattlePokemonInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleParticipant.proto
+PlayerPublicProfile
+.POGOProtos.Data.Player.PlayerPublicProfile
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleParticipant.proto
+repeated BattlePokemonInfo
+repeated .POGOProtos.Data.Battle.BattlePokemonInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleParticipant.proto
+repeated BattlePokemonInfo
+repeated .POGOProtos.Data.Battle.BattlePokemonInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleParticipant.proto
+repeated LobbyPokemon
+repeated .POGOProtos.Map.Pokemon.LobbyPokemon
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattlePokemonInfo.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleResults.proto
+GymState
+.POGOProtos.Data.Gym.GymState
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleResults.proto
+repeated BattleParticipant
+repeated .POGOProtos.Data.Battle.BattleParticipant
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleUpdate.proto
+BattleLog
+.POGOProtos.Data.Battle.BattleLog
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleUpdate.proto
+BattlePokemonInfo
+.POGOProtos.Data.Battle.BattlePokemonInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleUpdate.proto
+BattlePokemonInfo
+.POGOProtos.Data.Battle.BattlePokemonInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Capture\CaptureAward.proto
+repeated ActivityType
+repeated .POGOProtos.Enums.ActivityType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Capture\CaptureProbability.proto
+repeated ItemId
+repeated .POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Gym\GymDefender.proto
+MotivatedPokemon
+.POGOProtos.Map.Pokemon.MotivatedPokemon
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Gym\GymDefender.proto
+DeploymentTotals
+.POGOProtos.Data.Gym.GymDefender.DeploymentTotals
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Gym\GymDefender.proto
+PlayerPublicProfile
+.POGOProtos.Data.Player.PlayerPublicProfile
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Gym\GymMembership.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Gym\GymMembership.proto
+PlayerPublicProfile
+.POGOProtos.Data.Player.PlayerPublicProfile
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Gym\GymMembership.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Gym\GymState.proto
+FortData
+.POGOProtos.Map.Fort.FortData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Gym\GymState.proto
+repeated GymMembership
+repeated .POGOProtos.Data.Gym.GymMembership
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Gym\GymStatusAndDefenders.proto
+FortData
+.POGOProtos.Map.Fort.FortData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Gym\GymStatusAndDefenders.proto
+repeated GymDefender
+repeated .POGOProtos.Data.Gym.GymDefender
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Logs\ActionLogEntry.proto
+CatchPokemonLogEntry
+.POGOProtos.Data.Logs.CatchPokemonLogEntry
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Logs\ActionLogEntry.proto
+FortSearchLogEntry
+.POGOProtos.Data.Logs.FortSearchLogEntry
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Logs\ActionLogEntry.proto
+BuddyPokemonLogEntry
+.POGOProtos.Data.Logs.BuddyPokemonLogEntry
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Logs\BuddyPokemonLogEntry.proto
+Result
+.POGOProtos.Data.Logs.BuddyPokemonLogEntry.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Logs\BuddyPokemonLogEntry.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Logs\BuddyPokemonLogEntry.proto
+PokemonDisplay
+.POGOProtos.Data.PokemonDisplay
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Logs\CatchPokemonLogEntry.proto
+Result
+.POGOProtos.Data.Logs.CatchPokemonLogEntry.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Logs\CatchPokemonLogEntry.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Logs\CatchPokemonLogEntry.proto
+PokemonDisplay
+.POGOProtos.Data.PokemonDisplay
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Logs\FortSearchLogEntry.proto
+Result
+.POGOProtos.Data.Logs.FortSearchLogEntry.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Logs\FortSearchLogEntry.proto
+repeated ItemData
+repeated .POGOProtos.Inventory.Item.ItemData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Logs\FortSearchLogEntry.proto
+repeated PokemonData
+repeated .POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Player\EquippedBadge.proto
+BadgeType
+.POGOProtos.Enums.BadgeType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Player\PlayerPublicProfile.proto
+PlayerAvatar
+.POGOProtos.Data.Player.PlayerAvatar
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Player\PlayerPublicProfile.proto
+TeamColor
+.POGOProtos.Enums.TeamColor
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Player\PlayerPublicProfile.proto
+GymBadgeType
+.POGOProtos.Enums.GymBadgeType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Player\PlayerStats.proto
+repeated GymBadgeType
+repeated .POGOProtos.Enums.GymBadgeType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Quests\Quest.proto
+QuestType
+.POGOProtos.Enums.QuestType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Quests\Quest.proto
+DailyQuest
+.POGOProtos.Data.Quests.DailyQuest
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\PlayerRaidInfo.proto
+repeated Raid
+repeated .POGOProtos.Data.Raid.Raid
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\Raid.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\RaidInfo.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\RaidInfo.proto
+RaidLevel
+.POGOProtos.Enums.RaidLevel
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Redeem\RedeemedItem.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\FoodValue.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PlayerBadge.proto
+BadgeType
+.POGOProtos.Enums.BadgeType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PlayerData.proto
+TeamColor
+.POGOProtos.Enums.TeamColor
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PlayerData.proto
+repeated TutorialState
+repeated .POGOProtos.Enums.TutorialState
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PlayerData.proto
+PlayerAvatar
+.POGOProtos.Data.Player.PlayerAvatar
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PlayerData.proto
+DailyBonus
+.POGOProtos.Data.Player.DailyBonus
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PlayerData.proto
+EquippedBadge
+.POGOProtos.Data.Player.EquippedBadge
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PlayerData.proto
+ContactSettings
+.POGOProtos.Data.Player.ContactSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PlayerData.proto
+repeated Currency
+repeated .POGOProtos.Data.Player.Currency
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PlayerData.proto
+BuddyPokemon
+.POGOProtos.Data.BuddyPokemon
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PlayerData.proto
+PlayerAvatar
+.POGOProtos.Data.Player.PlayerAvatar
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokedexEntry.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokedexEntry.proto
+repeated Costume
+repeated .POGOProtos.Enums.Costume
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokedexEntry.proto
+repeated Form
+repeated .POGOProtos.Enums.Form
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokedexEntry.proto
+repeated Gender
+repeated .POGOProtos.Enums.Gender
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokedexEntry.proto
+repeated Costume
+repeated .POGOProtos.Enums.Costume
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokedexEntry.proto
+repeated Form
+repeated .POGOProtos.Enums.Form
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokedexEntry.proto
+repeated Gender
+repeated .POGOProtos.Enums.Gender
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokemonData.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokemonData.proto
+PokemonMove
+.POGOProtos.Enums.PokemonMove
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokemonData.proto
+PokemonMove
+.POGOProtos.Enums.PokemonMove
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokemonData.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokemonData.proto
+PokemonDisplay
+.POGOProtos.Data.PokemonDisplay
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokemonDisplay.proto
+Costume
+.POGOProtos.Enums.Costume
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokemonDisplay.proto
+Gender
+.POGOProtos.Enums.Gender
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\PokemonDisplay.proto
+Form
+.POGOProtos.Enums.Form
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\RedeemPasscodeReward.proto
+repeated RedeemedItem
+repeated .POGOProtos.Data.Redeem.RedeemedItem
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\RedeemPasscodeReward.proto
+repeated RedeemedAvatarItem
+repeated .POGOProtos.Data.Redeem.RedeemedAvatarItem
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\RedeemPasscodeReward.proto
+repeated PokemonData
+repeated .POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\RedeemPasscodeReward.proto
+repeated PokemonData
+repeated .POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\RedeemPasscodeReward.proto
+repeated PokeCandy
+repeated .POGOProtos.Data.Redeem.PokeCandy
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\RedeemPasscodeReward.proto
+repeated GymBadgeType
+repeated .POGOProtos.Enums.GymBadgeType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\Item\ItemAward.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\Item\ItemData.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\AppliedItem.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\AppliedItem.proto
+ItemType
+.POGOProtos.Inventory.Item.ItemType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\AppliedItems.proto
+repeated AppliedItem
+repeated .POGOProtos.Inventory.AppliedItem
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\Candy.proto
+PokemonFamilyId
+.POGOProtos.Enums.PokemonFamilyId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\EggIncubator.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\EggIncubator.proto
+EggIncubatorType
+.POGOProtos.Inventory.EggIncubatorType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\EggIncubators.proto
+repeated EggIncubator
+repeated .POGOProtos.Inventory.EggIncubator
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryDelta.proto
+repeated InventoryItem
+repeated .POGOProtos.Inventory.InventoryItem
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItem.proto
+InventoryItemData
+.POGOProtos.Inventory.InventoryItemData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItemData.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItemData.proto
+ItemData
+.POGOProtos.Inventory.Item.ItemData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItemData.proto
+PokedexEntry
+.POGOProtos.Data.PokedexEntry
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItemData.proto
+PlayerStats
+.POGOProtos.Data.Player.PlayerStats
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItemData.proto
+PlayerCurrency
+.POGOProtos.Data.Player.PlayerCurrency
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItemData.proto
+PlayerCamera
+.POGOProtos.Data.Player.PlayerCamera
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItemData.proto
+InventoryUpgrades
+.POGOProtos.Inventory.InventoryUpgrades
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItemData.proto
+AppliedItems
+.POGOProtos.Inventory.AppliedItems
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItemData.proto
+EggIncubators
+.POGOProtos.Inventory.EggIncubators
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItemData.proto
+Candy
+.POGOProtos.Inventory.Candy
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItemData.proto
+Quest
+.POGOProtos.Data.Quests.Quest
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItemData.proto
+AvatarItem
+.POGOProtos.Data.Avatar.AvatarItem
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryItemData.proto
+RaidTickets
+.POGOProtos.Inventory.RaidTickets
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryKey.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryKey.proto
+PokemonFamilyId
+.POGOProtos.Enums.PokemonFamilyId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryKey.proto
+QuestType
+.POGOProtos.Enums.QuestType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryUpgrade.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\InventoryUpgrade.proto
+InventoryUpgradeType
+.POGOProtos.Inventory.InventoryUpgradeType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\Loot.proto
+repeated LootItem
+repeated .POGOProtos.Inventory.LootItem
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\LootItem.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\LootItem.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\RaidTicket.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\RaidTicket.proto
+ExclusiveTicketInfo
+.POGOProtos.Inventory.ExclusiveTicketInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Inventory\RaidTickets.proto
+repeated RaidTicket
+repeated .POGOProtos.Inventory.RaidTicket
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\FortData.proto
+TeamColor
+.POGOProtos.Enums.TeamColor
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\FortData.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\FortData.proto
+FortType
+.POGOProtos.Map.Fort.FortType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\FortData.proto
+repeated ItemId
+repeated .POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\FortData.proto
+FortLureInfo
+.POGOProtos.Map.Fort.FortLureInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\FortData.proto
+FortSponsor
+.POGOProtos.Map.Fort.FortSponsor
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\FortData.proto
+FortRenderingType
+.POGOProtos.Map.Fort.FortRenderingType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\FortData.proto
+PokemonDisplay
+.POGOProtos.Data.PokemonDisplay
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\FortData.proto
+RaidInfo
+.POGOProtos.Data.Raid.RaidInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\FortData.proto
+GymDisplay
+.POGOProtos.Map.Fort.GymDisplay
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\FortLureInfo.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\FortModifier.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\GymDisplay.proto
+repeated GymEvent
+repeated .POGOProtos.Map.Fort.GymEvent
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Fort\GymEvent.proto
+Event
+.POGOProtos.Map.Fort.GymEvent.Event
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Pokemon\LobbyPokemon.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Pokemon\MapPokemon.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Pokemon\MapPokemon.proto
+PokemonDisplay
+.POGOProtos.Data.PokemonDisplay
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Pokemon\MotivatedPokemon.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Pokemon\MotivatedPokemon.proto
+repeated FoodValue
+repeated .POGOProtos.Data.FoodValue
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Pokemon\NearbyPokemon.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Pokemon\NearbyPokemon.proto
+PokemonDisplay
+.POGOProtos.Data.PokemonDisplay
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\Pokemon\WildPokemon.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\MapCell.proto
+repeated FortData
+repeated .POGOProtos.Map.Fort.FortData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\MapCell.proto
+repeated SpawnPoint
+repeated .POGOProtos.Map.SpawnPoint
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\MapCell.proto
+repeated FortSummary
+repeated .POGOProtos.Map.Fort.FortSummary
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\MapCell.proto
+repeated SpawnPoint
+repeated .POGOProtos.Map.SpawnPoint
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\MapCell.proto
+repeated WildPokemon
+repeated .POGOProtos.Map.Pokemon.WildPokemon
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\MapCell.proto
+repeated MapPokemon
+repeated .POGOProtos.Map.Pokemon.MapPokemon
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Map\MapCell.proto
+repeated NearbyPokemon
+repeated .POGOProtos.Map.Pokemon.NearbyPokemon
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Envelopes\RequestEnvelope.proto
+repeated Request
+repeated .POGOProtos.Networking.Requests.Request
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Envelopes\RequestEnvelope.proto
+AuthTicket
+.POGOProtos.Networking.Envelopes.AuthTicket
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Envelopes\RequestEnvelope.proto
+PlatformRequestType
+.POGOProtos.Networking.Platform.PlatformRequestType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Envelopes\ResponseEnvelope.proto
+AuthTicket
+.POGOProtos.Networking.Envelopes.AuthTicket
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Envelopes\ResponseEnvelope.proto
+PlatformRequestType
+.POGOProtos.Networking.Platform.PlatformRequestType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Platform\Responses\GetStoreItemsResponse.proto
+repeated Currency
+repeated .POGOProtos.Data.Player.Currency
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Platform\Responses\GetStoreItemsResponse.proto
+Currency
+.POGOProtos.Data.Player.Currency
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Platform\Responses\GetStoreItemsResponse.proto
+Currency
+.POGOProtos.Data.Player.Currency
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\AddFortModifierMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\AttackGymMessage.proto
+repeated BattleAction
+repeated .POGOProtos.Data.Battle.BattleAction
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\AttackGymMessage.proto
+BattleAction
+.POGOProtos.Data.Battle.BattleAction
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\CatchPokemonMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\DownloadRemoteConfigVersionMessage.proto
+Platform
+.POGOProtos.Enums.Platform
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\EncounterTutorialCompleteMessage.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\EquipBadgeMessage.proto
+BadgeType
+.POGOProtos.Enums.BadgeType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\EvolvePokemonMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\GetAssetDigestMessage.proto
+Platform
+.POGOProtos.Enums.Platform
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\GetPlayerMessage.proto
+PlayerLocale
+.POGOProtos.Networking.Requests.Messages.GetPlayerMessage.PlayerLocale
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\GymFeedPokemonMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\ListAvatarCustomizationsMessage.proto
+PlayerAvatarType
+.POGOProtos.Data.Player.PlayerAvatarType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\ListAvatarCustomizationsMessage.proto
+repeated Slot
+repeated .POGOProtos.Enums.Slot
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\ListAvatarCustomizationsMessage.proto
+repeated Filter
+repeated .POGOProtos.Enums.Filter
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\MarkTutorialCompleteMessage.proto
+repeated TutorialState
+repeated .POGOProtos.Enums.TutorialState
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\PushNotificationRegistryMessage.proto
+ApnToken
+.POGOProtos.Networking.Requests.Messages.PushNotificationRegistryMessage.ApnToken
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\PushNotificationRegistryMessage.proto
+GcmToken
+.POGOProtos.Networking.Requests.Messages.PushNotificationRegistryMessage.GcmToken
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\RecycleInventoryItemMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\SetAvatarMessage.proto
+PlayerAvatar
+.POGOProtos.Data.Player.PlayerAvatar
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\SetContactSettingsMessage.proto
+ContactSettings
+.POGOProtos.Data.Player.ContactSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\SetPlayerTeamMessage.proto
+TeamColor
+.POGOProtos.Enums.TeamColor
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\UpdateNotificationMessage.proto
+NotificationState
+.POGOProtos.Enums.NotificationState
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\UseIncenseMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\UseItemCaptureMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\UseItemEncounterMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\UseItemGymMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\UseItemMoveRerollMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\UseItemPotionMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\UseItemRareCandyMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\UseItemRareCandyMessage.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\UseItemReviveMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Messages\UseItemXpBoostMessage.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Requests\Request.proto
+RequestType
+.POGOProtos.Networking.Requests.RequestType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\AddFortModifierResponse.proto
+Result
+.POGOProtos.Networking.Responses.AddFortModifierResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\AddFortModifierResponse.proto
+FortDetailsResponse
+.POGOProtos.Networking.Responses.FortDetailsResponse
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\AttackGymResponse.proto
+Result
+.POGOProtos.Networking.Responses.AttackGymResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\AttackGymResponse.proto
+BattleLog
+.POGOProtos.Data.Battle.BattleLog
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\AttackGymResponse.proto
+BattlePokemonInfo
+.POGOProtos.Data.Battle.BattlePokemonInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\AttackGymResponse.proto
+BattlePokemonInfo
+.POGOProtos.Data.Battle.BattlePokemonInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\AttackGymResponse.proto
+BattleUpdate
+.POGOProtos.Data.Battle.BattleUpdate
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\CatchPokemonResponse.proto
+CatchStatus
+.POGOProtos.Networking.Responses.CatchPokemonResponse.CatchStatus
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\CatchPokemonResponse.proto
+CaptureAward
+.POGOProtos.Data.Capture.CaptureAward
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\CatchPokemonResponse.proto
+CaptureReason
+.POGOProtos.Networking.Responses.CatchPokemonResponse.CaptureReason
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\CheckAwardedBadgesResponse.proto
+repeated BadgeType
+repeated .POGOProtos.Enums.BadgeType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\CheckCodenameAvailableResponse.proto
+Status
+.POGOProtos.Networking.Responses.CheckCodenameAvailableResponse.Status
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\ClaimCodenameResponse.proto
+Status
+.POGOProtos.Networking.Responses.ClaimCodenameResponse.Status
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\ClaimCodenameResponse.proto
+PlayerData
+.POGOProtos.Data.PlayerData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\CollectDailyBonusResponse.proto
+Result
+.POGOProtos.Networking.Responses.CollectDailyBonusResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\CollectDailyDefenderBonusResponse.proto
+Result
+.POGOProtos.Networking.Responses.CollectDailyDefenderBonusResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DiskEncounterResponse.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DiskEncounterResponse.proto
+CaptureProbability
+.POGOProtos.Data.Capture.CaptureProbability
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DiskEncounterResponse.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+repeated ItemTemplate
+repeated .POGOProtos.Networking.Responses.DownloadItemTemplatesResponse.ItemTemplate
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+PokemonSettings
+.POGOProtos.Settings.Master.PokemonSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+ItemSettings
+.POGOProtos.Settings.Master.ItemSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+MoveSettings
+.POGOProtos.Settings.Master.MoveSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+MoveSequenceSettings
+.POGOProtos.Settings.Master.MoveSequenceSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+TypeEffectiveSettings
+.POGOProtos.Settings.Master.TypeEffectiveSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+BadgeSettings
+.POGOProtos.Settings.Master.BadgeSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+CameraSettings
+.POGOProtos.Settings.Master.CameraSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+PlayerLevelSettings
+.POGOProtos.Settings.Master.PlayerLevelSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+GymLevelSettings
+.POGOProtos.Settings.Master.GymLevelSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+GymBattleSettings
+.POGOProtos.Settings.Master.GymBattleSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+EncounterSettings
+.POGOProtos.Settings.Master.EncounterSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+IapItemDisplay
+.POGOProtos.Settings.Master.IapItemDisplay
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+IapSettings
+.POGOProtos.Settings.Master.IapSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+PokemonUpgradeSettings
+.POGOProtos.Settings.Master.PokemonUpgradeSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+EquippedBadgeSettings
+.POGOProtos.Settings.Master.EquippedBadgeSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+QuestSettings
+.POGOProtos.Settings.Master.QuestSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+AvatarCustomizationSettings
+.POGOProtos.Settings.Master.AvatarCustomizationSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+FormSettings
+.POGOProtos.Settings.Master.FormSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+GenderSettings
+.POGOProtos.Settings.Master.GenderSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+GymBadgeGmtSettings
+.POGOProtos.Settings.Master.GymBadgeGmtSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadRemoteConfigVersionResponse.proto
+Result
+.POGOProtos.Networking.Responses.DownloadRemoteConfigVersionResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\DownloadSettingsResponse.proto
+GlobalSettings
+.POGOProtos.Settings.GlobalSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\EncounterResponse.proto
+WildPokemon
+.POGOProtos.Map.Pokemon.WildPokemon
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\EncounterResponse.proto
+CaptureProbability
+.POGOProtos.Data.Capture.CaptureProbability
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\EncounterResponse.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\EncounterTutorialCompleteResponse.proto
+Result
+.POGOProtos.Networking.Responses.EncounterTutorialCompleteResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\EncounterTutorialCompleteResponse.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\EncounterTutorialCompleteResponse.proto
+CaptureAward
+.POGOProtos.Data.Capture.CaptureAward
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\EquipBadgeResponse.proto
+Result
+.POGOProtos.Networking.Responses.EquipBadgeResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\EquipBadgeResponse.proto
+EquippedBadge
+.POGOProtos.Data.Player.EquippedBadge
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\EvolvePokemonResponse.proto
+Result
+.POGOProtos.Networking.Responses.EvolvePokemonResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\EvolvePokemonResponse.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortDeployPokemonResponse.proto
+Result
+.POGOProtos.Networking.Responses.FortDeployPokemonResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortDeployPokemonResponse.proto
+FortDetailsResponse
+.POGOProtos.Networking.Responses.FortDetailsResponse
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortDeployPokemonResponse.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortDeployPokemonResponse.proto
+GymState
+.POGOProtos.Data.Gym.GymState
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortDetailsResponse.proto
+TeamColor
+.POGOProtos.Enums.TeamColor
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortDetailsResponse.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortDetailsResponse.proto
+FortType
+.POGOProtos.Map.Fort.FortType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortDetailsResponse.proto
+repeated FortModifier
+repeated .POGOProtos.Map.Fort.FortModifier
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortDetailsResponse.proto
+EventInfo
+.POGOProtos.Data.Raid.EventInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortRecallPokemonResponse.proto
+Result
+.POGOProtos.Networking.Responses.FortRecallPokemonResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortRecallPokemonResponse.proto
+FortDetailsResponse
+.POGOProtos.Networking.Responses.FortDetailsResponse
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortSearchResponse.proto
+Result
+.POGOProtos.Networking.Responses.FortSearchResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortSearchResponse.proto
+repeated ItemAward
+repeated .POGOProtos.Inventory.Item.ItemAward
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortSearchResponse.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortSearchResponse.proto
+AwardedGymBadge
+.POGOProtos.Data.Badge.AwardedGymBadge
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortSearchResponse.proto
+Loot
+.POGOProtos.Inventory.Loot
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortSearchResponse.proto
+Loot
+.POGOProtos.Inventory.Loot
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\FortSearchResponse.proto
+Loot
+.POGOProtos.Inventory.Loot
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetAssetDigestResponse.proto
+repeated AssetDigestEntry
+repeated .POGOProtos.Data.AssetDigestEntry
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetBuddyWalkedResponse.proto
+PokemonFamilyId
+.POGOProtos.Enums.PokemonFamilyId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetDownloadUrlsResponse.proto
+repeated DownloadUrlEntry
+repeated .POGOProtos.Data.DownloadUrlEntry
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetGymBadgeDetailsResponse.proto
+AwardedGymBadge
+.POGOProtos.Data.Badge.AwardedGymBadge
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetGymBadgeDetailsResponse.proto
+GymDefender
+.POGOProtos.Data.Gym.GymDefender
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetGymDetailsResponse.proto
+GymState
+.POGOProtos.Data.Gym.GymState
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetGymDetailsResponse.proto
+Result
+.POGOProtos.Networking.Responses.GetGymDetailsResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetGymDetailsResponse.proto
+EventInfo
+.POGOProtos.Data.Raid.EventInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetHatchedEggsResponse.proto
+repeated PokemonData
+repeated .POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetIncensePokemonResponse.proto
+Result
+.POGOProtos.Networking.Responses.GetIncensePokemonResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetIncensePokemonResponse.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetIncensePokemonResponse.proto
+PokemonDisplay
+.POGOProtos.Data.PokemonDisplay
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetInventoryResponse.proto
+InventoryDelta
+.POGOProtos.Inventory.InventoryDelta
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetMapObjectsResponse.proto
+repeated MapCell
+repeated .POGOProtos.Map.MapCell
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetMapObjectsResponse.proto
+MapObjectsStatus
+.POGOProtos.Map.MapObjectsStatus
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetPlayerProfileResponse.proto
+Result
+.POGOProtos.Networking.Responses.GetPlayerProfileResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetPlayerProfileResponse.proto
+repeated PlayerBadge
+repeated .POGOProtos.Data.PlayerBadge
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetPlayerProfileResponse.proto
+GymBadges
+.POGOProtos.Networking.Responses.GetPlayerProfileResponse.GymBadges
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetPlayerProfileResponse.proto
+repeated AwardedGymBadge
+repeated .POGOProtos.Data.Badge.AwardedGymBadge
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GetPlayerResponse.proto
+PlayerData
+.POGOProtos.Data.PlayerData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GymDeployResponse.proto
+Result
+.POGOProtos.Networking.Responses.GymDeployResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GymDeployResponse.proto
+GymStatusAndDefenders
+.POGOProtos.Data.Gym.GymStatusAndDefenders
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GymDeployResponse.proto
+AwardedGymBadge
+.POGOProtos.Data.Badge.AwardedGymBadge
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GymFeedPokemonResponse.proto
+Result
+.POGOProtos.Networking.Responses.GymFeedPokemonResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GymFeedPokemonResponse.proto
+GymStatusAndDefenders
+.POGOProtos.Data.Gym.GymStatusAndDefenders
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GymFeedPokemonResponse.proto
+AwardedGymBadge
+.POGOProtos.Data.Badge.AwardedGymBadge
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GymFeedPokemonResponse.proto
+PokemonFamilyId
+.POGOProtos.Enums.PokemonFamilyId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GymGetInfoResponse.proto
+GymStatusAndDefenders
+.POGOProtos.Data.Gym.GymStatusAndDefenders
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GymGetInfoResponse.proto
+Result
+.POGOProtos.Networking.Responses.GymGetInfoResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GymGetInfoResponse.proto
+AwardedGymBadge
+.POGOProtos.Data.Badge.AwardedGymBadge
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\GymGetInfoResponse.proto
+EventInfo
+.POGOProtos.Data.Raid.EventInfo
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\IncenseEncounterResponse.proto
+Result
+.POGOProtos.Networking.Responses.IncenseEncounterResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\IncenseEncounterResponse.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\IncenseEncounterResponse.proto
+CaptureProbability
+.POGOProtos.Data.Capture.CaptureProbability
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\IncenseEncounterResponse.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\LevelUpRewardsResponse.proto
+Result
+.POGOProtos.Networking.Responses.LevelUpRewardsResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\LevelUpRewardsResponse.proto
+repeated ItemAward
+repeated .POGOProtos.Inventory.Item.ItemAward
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\LevelUpRewardsResponse.proto
+repeated ItemId
+repeated .POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\ListAvatarCustomizationsResponse.proto
+repeated AvatarCustomization
+repeated .POGOProtos.Data.Avatar.AvatarCustomization
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\ListGymBadgesResponse.proto
+repeated AwardedGymBadge
+repeated .POGOProtos.Data.Badge.AwardedGymBadge
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\MarkTutorialCompleteResponse.proto
+PlayerData
+.POGOProtos.Data.PlayerData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\NicknamePokemonResponse.proto
+Result
+.POGOProtos.Networking.Responses.NicknamePokemonResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\RecycleInventoryItemResponse.proto
+Result
+.POGOProtos.Networking.Responses.RecycleInventoryItemResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\RegisterBackgroundDeviceResponse.proto
+BackgroundToken
+.POGOProtos.Data.BackgroundToken
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\ReleasePokemonResponse.proto
+Result
+.POGOProtos.Networking.Responses.ReleasePokemonResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\SetAvatarResponse.proto
+Status
+.POGOProtos.Networking.Responses.SetAvatarResponse.Status
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\SetAvatarResponse.proto
+PlayerData
+.POGOProtos.Data.PlayerData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\SetBuddyPokemonResponse.proto
+Result
+.POGOProtos.Networking.Responses.SetBuddyPokemonResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\SetBuddyPokemonResponse.proto
+BuddyPokemon
+.POGOProtos.Data.BuddyPokemon
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\SetContactSettingsResponse.proto
+Status
+.POGOProtos.Networking.Responses.SetContactSettingsResponse.Status
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\SetContactSettingsResponse.proto
+PlayerData
+.POGOProtos.Data.PlayerData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\SetFavoritePokemonResponse.proto
+Result
+.POGOProtos.Networking.Responses.SetFavoritePokemonResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\SetPlayerTeamResponse.proto
+Status
+.POGOProtos.Networking.Responses.SetPlayerTeamResponse.Status
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\SetPlayerTeamResponse.proto
+PlayerData
+.POGOProtos.Data.PlayerData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\SfidaActionLogResponse.proto
+Result
+.POGOProtos.Networking.Responses.SfidaActionLogResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\SfidaActionLogResponse.proto
+repeated ActionLogEntry
+repeated .POGOProtos.Data.Logs.ActionLogEntry
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\StartGymBattleResponse.proto
+Result
+.POGOProtos.Networking.Responses.StartGymBattleResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\StartGymBattleResponse.proto
+BattleParticipant
+.POGOProtos.Data.Battle.BattleParticipant
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\StartGymBattleResponse.proto
+BattleLog
+.POGOProtos.Data.Battle.BattleLog
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\StartGymBattleResponse.proto
+BattleParticipant
+.POGOProtos.Data.Battle.BattleParticipant
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\StartGymBattleResponse.proto
+Battle
+.POGOProtos.Data.Battle.Battle
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UpdateNotificationResponse.proto
+NotificationState
+.POGOProtos.Enums.NotificationState
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UpgradePokemonResponse.proto
+Result
+.POGOProtos.Networking.Responses.UpgradePokemonResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UpgradePokemonResponse.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseIncenseResponse.proto
+Result
+.POGOProtos.Networking.Responses.UseIncenseResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseIncenseResponse.proto
+AppliedItem
+.POGOProtos.Inventory.AppliedItem
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseItemEggIncubatorResponse.proto
+Result
+.POGOProtos.Networking.Responses.UseItemEggIncubatorResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseItemEggIncubatorResponse.proto
+EggIncubator
+.POGOProtos.Inventory.EggIncubator
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseItemEncounterResponse.proto
+CaptureProbability
+.POGOProtos.Data.Capture.CaptureProbability
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseItemEncounterResponse.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseItemGymResponse.proto
+Result
+.POGOProtos.Networking.Responses.UseItemGymResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseItemMoveRerollResponse.proto
+Result
+.POGOProtos.Networking.Responses.UseItemMoveRerollResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseItemMoveRerollResponse.proto
+PokemonData
+.POGOProtos.Data.PokemonData
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseItemPotionResponse.proto
+Result
+.POGOProtos.Networking.Responses.UseItemPotionResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseItemRareCandyResponse.proto
+Result
+.POGOProtos.Networking.Responses.UseItemRareCandyResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseItemRareCandyResponse.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseItemReviveResponse.proto
+Result
+.POGOProtos.Networking.Responses.UseItemReviveResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseItemXpBoostResponse.proto
+Result
+.POGOProtos.Networking.Responses.UseItemXpBoostResponse.Result
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Networking\Responses\UseItemXpBoostResponse.proto
+AppliedItems
+.POGOProtos.Inventory.AppliedItems
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\Item\EggIncubatorAttributes.proto
+EggIncubatorType
+.POGOProtos.Inventory.EggIncubatorType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\Item\FoodAttributes.proto
+repeated ItemEffect
+repeated .POGOProtos.Enums.ItemEffect
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\Item\IncenseAttributes.proto
+repeated PokemonType
+repeated .POGOProtos.Enums.PokemonType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\Item\InventoryUpgradeAttributes.proto
+InventoryUpgradeType
+.POGOProtos.Inventory.InventoryUpgradeType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\Item\PokeballAttributes.proto
+ItemEffect
+.POGOProtos.Enums.ItemEffect
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\Pokemon\EncounterAttributes.proto
+PokemonMovementType
+.POGOProtos.Enums.PokemonMovementType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\Pokemon\EvolutionBranch.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\Pokemon\EvolutionBranch.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\AvatarCustomizationSettings.proto
+PlayerAvatarType
+.POGOProtos.Data.Player.PlayerAvatarType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\AvatarCustomizationSettings.proto
+repeated Slot
+repeated .POGOProtos.Enums.Slot
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\AvatarCustomizationSettings.proto
+BadgeType
+.POGOProtos.Enums.BadgeType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\BadgeSettings.proto
+BadgeType
+.POGOProtos.Enums.BadgeType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\BadgeSettings.proto
+repeated BadgeCaptureReward
+repeated .POGOProtos.Data.Badge.BadgeCaptureReward
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\CameraSettings.proto
+repeated CameraInterpolation
+repeated .POGOProtos.Enums.CameraInterpolation
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\CameraSettings.proto
+repeated CameraTarget
+repeated .POGOProtos.Enums.CameraTarget
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\FormSettings.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\FormSettings.proto
+Form
+.POGOProtos.Enums.Form
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\GenderSettings.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\GenderSettings.proto
+PokemonGenderSettings
+.POGOProtos.Settings.Master.Pokemon.PokemonGenderSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\IapItemDisplay.proto
+HoloIapItemCategory
+.POGOProtos.Enums.HoloIapItemCategory
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\IapItemDisplay.proto
+repeated ItemId
+repeated .POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\ItemSettings.proto
+ItemId
+.POGOProtos.Inventory.Item.ItemId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\ItemSettings.proto
+ItemType
+.POGOProtos.Inventory.Item.ItemType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\ItemSettings.proto
+ItemCategory
+.POGOProtos.Enums.ItemCategory
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\ItemSettings.proto
+PokeballAttributes
+.POGOProtos.Settings.Master.Item.PokeballAttributes
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\ItemSettings.proto
+PotionAttributes
+.POGOProtos.Settings.Master.Item.PotionAttributes
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\ItemSettings.proto
+ReviveAttributes
+.POGOProtos.Settings.Master.Item.ReviveAttributes
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\ItemSettings.proto
+BattleAttributes
+.POGOProtos.Settings.Master.Item.BattleAttributes
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\ItemSettings.proto
+FoodAttributes
+.POGOProtos.Settings.Master.Item.FoodAttributes
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\ItemSettings.proto
+InventoryUpgradeAttributes
+.POGOProtos.Settings.Master.Item.InventoryUpgradeAttributes
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\ItemSettings.proto
+ExperienceBoostAttributes
+.POGOProtos.Settings.Master.Item.ExperienceBoostAttributes
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\ItemSettings.proto
+IncenseAttributes
+.POGOProtos.Settings.Master.Item.IncenseAttributes
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\ItemSettings.proto
+EggIncubatorAttributes
+.POGOProtos.Settings.Master.Item.EggIncubatorAttributes
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\ItemSettings.proto
+FortModifierAttributes
+.POGOProtos.Settings.Master.Item.FortModifierAttributes
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\MoveSettings.proto
+PokemonMove
+.POGOProtos.Enums.PokemonMove
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\MoveSettings.proto
+PokemonType
+.POGOProtos.Enums.PokemonType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+PokemonType
+.POGOProtos.Enums.PokemonType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+PokemonType
+.POGOProtos.Enums.PokemonType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+CameraAttributes
+.POGOProtos.Settings.Master.Pokemon.CameraAttributes
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+EncounterAttributes
+.POGOProtos.Settings.Master.Pokemon.EncounterAttributes
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+StatsAttributes
+.POGOProtos.Settings.Master.Pokemon.StatsAttributes
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+repeated PokemonMove
+repeated .POGOProtos.Enums.PokemonMove
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+repeated PokemonMove
+repeated .POGOProtos.Enums.PokemonMove
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+repeated PokemonId
+repeated .POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+PokemonRarity
+.POGOProtos.Enums.PokemonRarity
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+PokemonFamilyId
+.POGOProtos.Enums.PokemonFamilyId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+BuddySize
+.POGOProtos.Settings.Master.PokemonSettings.BuddySize
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\PokemonSettings.proto
+repeated EvolutionBranch
+repeated .POGOProtos.Settings.Master.Pokemon.EvolutionBranch
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\QuestSettings.proto
+QuestType
+.POGOProtos.Enums.QuestType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\QuestSettings.proto
+DailyQuestSettings
+.POGOProtos.Settings.Master.Quest.DailyQuestSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\Master\TypeEffectiveSettings.proto
+PokemonType
+.POGOProtos.Enums.PokemonType
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\GlobalSettings.proto
+FortSettings
+.POGOProtos.Settings.FortSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\GlobalSettings.proto
+MapSettings
+.POGOProtos.Settings.MapSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\GlobalSettings.proto
+LevelSettings
+.POGOProtos.Settings.LevelSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\GlobalSettings.proto
+InventorySettings
+.POGOProtos.Settings.InventorySettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\GlobalSettings.proto
+GpsSettings
+.POGOProtos.Settings.GpsSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\GlobalSettings.proto
+FestivalSettings
+.POGOProtos.Settings.FestivalSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\GlobalSettings.proto
+EventSettings
+.POGOProtos.Settings.EventSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\GlobalSettings.proto
+SfidaSettings
+.POGOProtos.Settings.SfidaSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\GlobalSettings.proto
+NewsSettings
+.POGOProtos.Settings.NewsSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\GlobalSettings.proto
+TranslationSettings
+.POGOProtos.Settings.TranslationSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\GlobalSettings.proto
+PasscodeSettings
+.POGOProtos.Settings.PasscodeSettings
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Settings\GlobalSettings.proto
+NotificationSettings
+.POGOProtos.Settings.NotificationSettings
