@@ -32,6 +32,10 @@ G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Batt
 import "POGOProtos/Data/Gym/GymState.proto";
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleResults.proto
 import "POGOProtos/Data/Battle/BattleParticipant.proto";
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleResults.proto.bak
+import "POGOProtos/Data/Gym/GymState.proto";
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleResults.proto.bak
+import "POGOProtos/Data/Battle/BattleParticipant.proto";
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleUpdate.proto
 import "POGOProtos/Data/Battle/BattleLog.proto";
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleUpdate.proto
@@ -91,6 +95,8 @@ import "POGOProtos/Data/Quests/DailyQuest.proto";
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\PlayerRaidInfo.proto
 import "POGOProtos/Data/Raid/Raid.proto";
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\Raid.proto
+import "POGOProtos/Enums/PokemonId.proto";
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\Raid.proto.bak
 import "POGOProtos/Enums/PokemonId.proto";
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\RaidInfo.proto
 import "POGOProtos/Data/PokemonData.proto";

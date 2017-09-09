@@ -61,6 +61,18 @@ GymState
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleResults.proto
 repeated BattleParticipant
 repeated .POGOProtos.Data.Battle.BattleParticipant
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleResults.proto
+GymStatusAndDefenders
+.POGOProtos.Data.Gym.GymStatusAndDefenders
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleResults.proto
+repeated AwardedGymBadge
+repeated .POGOProtos.Data.Badge.AwardedGymBadge
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleResults.proto.bak
+GymState
+.POGOProtos.Data.Gym.GymState
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleResults.proto.bak
+repeated BattleParticipant
+repeated .POGOProtos.Data.Battle.BattleParticipant
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleUpdate.proto
 BattleLog
 .POGOProtos.Data.Battle.BattleLog
@@ -167,6 +179,9 @@ G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid
 repeated Raid
 repeated .POGOProtos.Data.Raid.Raid
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\Raid.proto
+PokemonId
+.POGOProtos.Enums.PokemonId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\Raid.proto.bak
 PokemonId
 .POGOProtos.Enums.PokemonId
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\RaidInfo.proto

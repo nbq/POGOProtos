@@ -22,6 +22,8 @@ message BattlePokemonInfo
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattlePokemonInfo.proto
 message BattleResults
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleResults.proto
+message BattleResults
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleResults.proto.bak
 enum BattleState
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Battle\BattleState.proto
 enum BattleType
@@ -78,6 +80,8 @@ message PlayerRaidInfo
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\PlayerRaidInfo.proto
 message Raid
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\Raid.proto
+message Raid
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\Raid.proto.bak
 message RaidInfo
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Data\Raid\RaidInfo.proto
 message PokeCandy
@@ -144,6 +148,8 @@ enum Platform
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Enums\Platform.proto
 enum PokemonFamilyId
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Enums\PokemonFamilyId.proto
+enum PokemonFamilyId
+G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Enums\PokemonFamilyId.proto.bak
 enum PokemonId
 G:\Setups\Pokemon Go\Bot\Pikabot\_git\POGOProtos\goedzo\src\POGOProtos\Enums\PokemonId.proto
 enum PokemonMove
