@@ -4,7 +4,7 @@ rm -rf /src/pogoprotos/
 git clone -b dev https://github.com/goedzo/POGOProtos /src/pogoprotos/
 
 rm -rf /src/pgoapi/
-git clone -b 0.69.1 https://github.com/goedzo/pgoapi /src/pgoapi/
+git clone -b 0.73.1 https://github.com/goedzo/pgoapi /src/pgoapi/
 
 cp -F /src/pogoprotos/run.sh /src/run.sh
 chmod +x /src/run.sh
