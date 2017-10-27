@@ -1,0 +1,670 @@
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Badge\AwardedGymBadge.proto
+import "POGOProtos/Enums/GymBadgeType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Badge\AwardedGymBadge.proto
+import "POGOProtos/Data/Badge/GymBadgeStats.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Badge\AwardedGymBadge.proto
+import "POGOProtos/Data/Raid/PlayerRaidInfo.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\Battle.proto
+import "POGOProtos/Data/Battle/BattleParticipant.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\Battle.proto
+import "POGOProtos/Data/Battle/BattleLog.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleAction.proto
+import "POGOProtos/Data/Battle/BattleResults.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleAction.proto
+import "POGOProtos/Data/Battle/BattleActionType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleAction.proto
+import "POGOProtos/Data/Battle/BattleParticipant.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleLog.proto
+import "POGOProtos/Data/Battle/BattleState.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleLog.proto
+import "POGOProtos/Data/Battle/BattleType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleLog.proto
+import "POGOProtos/Data/Battle/BattleAction.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleParticipant.proto
+import "POGOProtos/Data/Battle/BattlePokemonInfo.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleParticipant.proto
+import "POGOProtos/Data/Player/PlayerPublicProfile.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleParticipant.proto
+import "POGOProtos/Map/Pokemon/LobbyPokemon.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattlePokemonInfo.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleResults.proto
+import "POGOProtos/Data/Gym/GymState.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleResults.proto
+import "POGOProtos/Data/Battle/BattleParticipant.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleUpdate.proto
+import "POGOProtos/Data/Battle/BattleLog.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleUpdate.proto
+import "POGOProtos/Data/Battle/BattlePokemonInfo.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Capture\CaptureAward.proto
+import "POGOProtos/Enums/ActivityType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Capture\CaptureProbability.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Gym\GymDefender.proto
+import "POGOProtos/Map/Pokemon/MotivatedPokemon.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Gym\GymDefender.proto
+import "POGOProtos/Data/Player/PlayerPublicProfile.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Gym\GymMembership.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Gym\GymMembership.proto
+import "POGOProtos/Data/Player/PlayerPublicProfile.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Gym\GymState.proto
+import "POGOProtos/Map/Fort/FortData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Gym\GymState.proto
+import "POGOProtos/Data/Gym/GymMembership.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Gym\GymStatusAndDefenders.proto
+import "POGOProtos/Map/Fort/FortData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Gym\GymStatusAndDefenders.proto
+import "POGOProtos/Data/Gym/GymDefender.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Logs\ActionLogEntry.proto
+import "POGOProtos/Data/Logs/CatchPokemonLogEntry.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Logs\ActionLogEntry.proto
+import "POGOProtos/Data/Logs/FortSearchLogEntry.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Logs\ActionLogEntry.proto
+import "POGOProtos/Data/Logs/BuddyPokemonLogEntry.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Logs\BuddyPokemonLogEntry.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Logs\BuddyPokemonLogEntry.proto
+import "POGOProtos/Data/PokemonDisplay.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Logs\CatchPokemonLogEntry.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Logs\CatchPokemonLogEntry.proto
+import "POGOProtos/Data/PokemonDisplay.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Logs\FortSearchLogEntry.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Logs\FortSearchLogEntry.proto
+import "POGOProtos/Inventory/Item/ItemData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\EquippedBadge.proto
+import "POGOProtos/Enums/BadgeType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\PlayerPublicProfile.proto
+import "POGOProtos/Data/Player/PlayerAvatar.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\PlayerPublicProfile.proto
+import "POGOProtos/Enums/TeamColor.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\PlayerPublicProfile.proto
+import "POGOProtos/Enums/GymBadgeType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\PlayerStats.proto
+import "POGOProtos/Enums/GymBadgeType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Quests\Quest.proto
+import "POGOProtos/Enums/QuestType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Quests\Quest.proto
+import "POGOProtos/Data/Quests/DailyQuest.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Raid\PlayerRaidInfo.proto
+import "POGOProtos/Data/Raid/Raid.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Raid\Raid.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Raid\RaidInfo.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Raid\RaidInfo.proto
+import "POGOProtos/Enums/RaidLevel.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Redeem\RedeemedItem.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\FoodValue.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PlayerBadge.proto
+import "POGOProtos/Enums/BadgeType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PlayerData.proto
+import "POGOProtos/Enums/TutorialState.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PlayerData.proto
+import "POGOProtos/Data/Player/PlayerAvatar.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PlayerData.proto
+import "POGOProtos/Data/Player/DailyBonus.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PlayerData.proto
+import "POGOProtos/Data/Player/EquippedBadge.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PlayerData.proto
+import "POGOProtos/Data/Player/ContactSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PlayerData.proto
+import "POGOProtos/Data/Player/Currency.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PlayerData.proto
+import "POGOProtos/Data/BuddyPokemon.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PlayerData.proto
+import "POGOProtos/Enums/TeamColor.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokedexEntry.proto
+import "POGOProtos/Enums/Costume.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokedexEntry.proto
+import "POGOProtos/Enums/Form.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokedexEntry.proto
+import "POGOProtos/Enums/Gender.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokedexEntry.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokemonData.proto
+import "POGOProtos/Data/PokemonDisplay.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokemonData.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokemonData.proto
+import "POGOProtos/Enums/PokemonMove.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokemonData.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokemonDisplay.proto
+import "POGOProtos/Enums/Costume.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokemonDisplay.proto
+import "POGOProtos/Enums/Form.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokemonDisplay.proto
+import "POGOProtos/Enums/Gender.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\RedeemPasscodeReward.proto
+import "POGOProtos/Enums/GymBadgeType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\RedeemPasscodeReward.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\RedeemPasscodeReward.proto
+import "POGOProtos/Data/Redeem/PokeCandy.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\RedeemPasscodeReward.proto
+import "POGOProtos/Data/Redeem/RedeemedAvatarItem.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\RedeemPasscodeReward.proto
+import "POGOProtos/Data/Redeem/RedeemedItem.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\Item\ItemAward.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\Item\ItemData.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\AppliedItem.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\AppliedItem.proto
+import "POGOProtos/Inventory/Item/ItemType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\AppliedItems.proto
+import "POGOProtos/Inventory/AppliedItem.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\Candy.proto
+import "POGOProtos/Enums/PokemonFamilyId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\EggIncubator.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\EggIncubator.proto
+import "POGOProtos/Inventory/EggIncubatorType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\EggIncubators.proto
+import "POGOProtos/Inventory/EggIncubator.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryDelta.proto
+import "POGOProtos/Inventory/InventoryItem.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItem.proto
+import "POGOProtos/Inventory/InventoryItemData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+import "POGOProtos/Inventory/Item/ItemData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+import "POGOProtos/Inventory/AppliedItems.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+import "POGOProtos/Inventory/EggIncubators.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+import "POGOProtos/Inventory/Candy.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+import "POGOProtos/Inventory/InventoryUpgrades.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+import "POGOProtos/Inventory/RaidTickets.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+import "POGOProtos/Data/Avatar/AvatarItem.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+import "POGOProtos/Data/PokedexEntry.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+import "POGOProtos/Data/Player/PlayerStats.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+import "POGOProtos/Data/Player/PlayerCurrency.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+import "POGOProtos/Data/Player/PlayerCamera.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+import "POGOProtos/Data/Quests/Quest.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryKey.proto
+import "POGOProtos/Enums/QuestType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryKey.proto
+import "POGOProtos/Enums/PokemonFamilyId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryKey.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryUpgrade.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryUpgrade.proto
+import "POGOProtos/Inventory/InventoryUpgradeType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryUpgrades.proto
+import "POGOProtos/Inventory/InventoryUpgrade.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\Loot.proto
+import "POGOProtos/Inventory/LootItem.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\LootItem.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\LootItem.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\RaidTicket.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\RaidTicket.proto
+import "POGOProtos/Inventory/ExclusiveTicketInfo.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\RaidTickets.proto
+import "POGOProtos/Inventory/RaidTicket.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortData.proto
+import "POGOProtos/Data/PokemonDisplay.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortData.proto
+import "POGOProtos/Data/Raid/RaidInfo.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortData.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortData.proto
+import "POGOProtos/Enums/TeamColor.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortData.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortData.proto
+import "POGOProtos/Map/Fort/GymDisplay.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortData.proto
+import "POGOProtos/Map/Fort/FortType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortData.proto
+import "POGOProtos/Map/Fort/FortSponsor.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortData.proto
+import "POGOProtos/Map/Fort/FortRenderingType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortData.proto
+import "POGOProtos/Map/Fort/FortLureInfo.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortLureInfo.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortModifier.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\GymDisplay.proto
+import "POGOProtos/Map/Fort/GymEvent.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Pokemon\LobbyPokemon.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Pokemon\MapPokemon.proto
+import "POGOProtos/Data/PokemonDisplay.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Pokemon\MapPokemon.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Pokemon\MotivatedPokemon.proto
+import "POGOProtos/Data/FoodValue.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Pokemon\MotivatedPokemon.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Pokemon\NearbyPokemon.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Pokemon\NearbyPokemon.proto
+import "POGOProtos/Data/PokemonDisplay.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Pokemon\WildPokemon.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\MapCell.proto
+import "POGOProtos/Map/SpawnPoint.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\MapCell.proto
+import "POGOProtos/Map/Fort/FortData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\MapCell.proto
+import "POGOProtos/Map/Fort/FortSummary.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\MapCell.proto
+import "POGOProtos/Map/Pokemon/NearbyPokemon.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\MapCell.proto
+import "POGOProtos/Map/Pokemon/WildPokemon.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\MapCell.proto
+import "POGOProtos/Map/Pokemon/MapPokemon.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Envelopes\RequestEnvelope.proto
+import "POGOProtos/Networking/Requests/Request.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Envelopes\RequestEnvelope.proto
+import "POGOProtos/Networking/Envelopes/AuthTicket.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Envelopes\RequestEnvelope.proto
+import "POGOProtos/Networking/Platform/PlatformRequestType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Envelopes\ResponseEnvelope.proto
+import "POGOProtos/Networking/Envelopes/AuthTicket.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Envelopes\ResponseEnvelope.proto
+import "POGOProtos/Networking/Platform/PlatformRequestType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Platform\Responses\GetStoreItemsResponse.proto
+import "POGOProtos/Data/Player/Currency.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\AddFortModifierMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\AttackGymMessage.proto
+import "POGOProtos/Data/Battle/BattleAction.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\CatchPokemonMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\DownloadRemoteConfigVersionMessage.proto
+import "POGOProtos/Enums/Platform.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\EncounterTutorialCompleteMessage.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\EquipBadgeMessage.proto
+import "POGOProtos/Enums/BadgeType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\EvolvePokemonMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GetAssetDigestMessage.proto
+import "POGOProtos/Enums/Platform.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GymFeedPokemonMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\ListAvatarCustomizationsMessage.proto
+import "POGOProtos/Data/Player/PlayerAvatarType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\ListAvatarCustomizationsMessage.proto
+import "POGOProtos/Enums/Slot.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\ListAvatarCustomizationsMessage.proto
+import "POGOProtos/Enums/Filter.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\MarkTutorialCompleteMessage.proto
+import "POGOProtos/Enums/TutorialState.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\RecycleInventoryItemMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\SetAvatarMessage.proto
+import "POGOProtos/Data/Player/PlayerAvatar.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\SetContactSettingsMessage.proto
+import "POGOProtos/Data/Player/ContactSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\SetPlayerTeamMessage.proto
+import "POGOProtos/Enums/TeamColor.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UpdateNotificationMessage.proto
+import "POGOProtos/Enums/NotificationState.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseIncenseMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemCaptureMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemEncounterMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemGymMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemMoveRerollMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemPotionMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemRareCandyMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemRareCandyMessage.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemReviveMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemXpBoostMessage.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Request.proto
+import "POGOProtos/Networking/Requests/RequestType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\AddFortModifierResponse.proto
+import "POGOProtos/Networking/Responses/FortDetailsResponse.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\AttackGymResponse.proto
+import "POGOProtos/Data/Battle/BattleLog.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\AttackGymResponse.proto
+import "POGOProtos/Data/Battle/BattlePokemonInfo.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\AttackGymResponse.proto
+import "POGOProtos/Data/Battle/BattleUpdate.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\CatchPokemonResponse.proto
+import "POGOProtos/Data/Capture/CaptureAward.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\CheckAwardedBadgesResponse.proto
+import "POGOProtos/Enums/BadgeType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\ClaimCodenameResponse.proto
+import "POGOProtos/Data/PlayerData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DiskEncounterResponse.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DiskEncounterResponse.proto
+import "POGOProtos/Data/Capture/CaptureProbability.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DiskEncounterResponse.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/AvatarCustomizationSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/BadgeSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/CameraSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/EncounterSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/EquippedBadgeSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/FormSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/GymBattleSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/GymLevelSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/IapItemDisplay.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/IapSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/ItemSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/MoveSequenceSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/MoveSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/PlayerLevelSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/PokemonSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/PokemonUpgradeSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/QuestSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/TypeEffectiveSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/GenderSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+import "POGOProtos/Settings/Master/GymBadgeGmtSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadSettingsResponse.proto
+import "POGOProtos/Settings/GlobalSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\EncounterResponse.proto
+import "POGOProtos/Data/Capture/CaptureProbability.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\EncounterResponse.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\EncounterResponse.proto
+import "POGOProtos/Map/Pokemon/WildPokemon.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\EncounterTutorialCompleteResponse.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\EncounterTutorialCompleteResponse.proto
+import "POGOProtos/Data/Capture/CaptureAward.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\EquipBadgeResponse.proto
+import "POGOProtos/Data/Player/EquippedBadge.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\EvolvePokemonResponse.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortDeployPokemonResponse.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortDeployPokemonResponse.proto
+import "POGOProtos/Data/Gym/GymState.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortDeployPokemonResponse.proto
+import "POGOProtos/Networking/Responses/FortDetailsResponse.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortDetailsResponse.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortDetailsResponse.proto
+import "POGOProtos/Data/Raid/EventInfo.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortDetailsResponse.proto
+import "POGOProtos/Enums/TeamColor.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortDetailsResponse.proto
+import "POGOProtos/Map/Fort/FortType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortDetailsResponse.proto
+import "POGOProtos/Map/Fort/FortModifier.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortRecallPokemonResponse.proto
+import "POGOProtos/Networking/Responses/FortDetailsResponse.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortSearchResponse.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortSearchResponse.proto
+import "POGOProtos/Inventory/Item/ItemAward.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortSearchResponse.proto
+import "POGOProtos/Inventory/Loot.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortSearchResponse.proto
+import "POGOProtos/Data/Badge/AwardedGymBadge.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetAssetDigestResponse.proto
+import "POGOProtos/Data/AssetDigestEntry.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetBuddyWalkedResponse.proto
+import "POGOProtos/Enums/PokemonFamilyId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetDownloadUrlsResponse.proto
+import "POGOProtos/Data/DownloadUrlEntry.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetGymBadgeDetailsResponse.proto
+import "POGOProtos/Data/Badge/AwardedGymBadge.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetGymBadgeDetailsResponse.proto
+import "POGOProtos/Data/Gym/GymDefender.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetGymDetailsResponse.proto
+import "POGOProtos/Data/Gym/GymState.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetGymDetailsResponse.proto
+import "POGOProtos/Data/Raid/EventInfo.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetHatchedEggsResponse.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetIncensePokemonResponse.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetIncensePokemonResponse.proto
+import "POGOProtos/Data/PokemonDisplay.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetInventoryResponse.proto
+import "POGOProtos/Inventory/InventoryDelta.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetMapObjectsResponse.proto
+import "POGOProtos/Map/MapCell.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetMapObjectsResponse.proto
+import "POGOProtos/Map/MapObjectsStatus.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetPlayerProfileResponse.proto
+import "POGOProtos/Data/PlayerBadge.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetPlayerProfileResponse.proto
+import "POGOProtos/Data/Badge/AwardedGymBadge.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetPlayerResponse.proto
+import "POGOProtos/Data/PlayerData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GymDeployResponse.proto
+import "POGOProtos/Data/Gym/GymStatusAndDefenders.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GymDeployResponse.proto
+import "POGOProtos/Data/Badge/AwardedGymBadge.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GymFeedPokemonResponse.proto
+import "POGOProtos/Data/Badge/AwardedGymBadge.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GymFeedPokemonResponse.proto
+import "POGOProtos/Enums/PokemonFamilyId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GymFeedPokemonResponse.proto
+import "POGOProtos/Data/Gym/GymStatusAndDefenders.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GymGetInfoResponse.proto
+import "POGOProtos/Data/Gym/GymStatusAndDefenders.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GymGetInfoResponse.proto
+import "POGOProtos/Data/Badge/AwardedGymBadge.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GymGetInfoResponse.proto
+import "POGOProtos/Data/Raid/EventInfo.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\IncenseEncounterResponse.proto
+import "POGOProtos/Data/Capture/CaptureProbability.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\IncenseEncounterResponse.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\IncenseEncounterResponse.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\LevelUpRewardsResponse.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\LevelUpRewardsResponse.proto
+import "POGOProtos/Inventory/Item/ItemAward.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\ListAvatarCustomizationsResponse.proto
+import "POGOProtos/Data/Avatar/AvatarCustomization.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\ListGymBadgesResponse.proto
+import "POGOProtos/Data/Badge/AwardedGymBadge.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\MarkTutorialCompleteResponse.proto
+import "POGOProtos/Data/PlayerData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\RegisterBackgroundDeviceResponse.proto
+import "POGOProtos/Data/BackgroundToken.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\SetAvatarResponse.proto
+import "POGOProtos/Data/PlayerData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\SetBuddyPokemonResponse.proto
+import "POGOProtos/Data/BuddyPokemon.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\SetContactSettingsResponse.proto
+import "POGOProtos/Data/PlayerData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\SetPlayerTeamResponse.proto
+import "POGOProtos/Data/PlayerData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\SfidaActionLogResponse.proto
+import "POGOProtos/Data/Logs/ActionLogEntry.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\StartGymBattleResponse.proto
+import "POGOProtos/Data/Battle/BattleLog.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\StartGymBattleResponse.proto
+import "POGOProtos/Data/Battle/BattleParticipant.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\StartGymBattleResponse.proto
+import "POGOProtos/Data/Battle/Battle.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UpdateNotificationResponse.proto
+import "POGOProtos/Enums/NotificationState.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UpgradePokemonResponse.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseIncenseResponse.proto
+import "POGOProtos/Inventory/AppliedItem.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemEggIncubatorResponse.proto
+import "POGOProtos/Inventory/EggIncubator.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemEncounterResponse.proto
+import "POGOProtos/Data/Capture/CaptureProbability.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemEncounterResponse.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemMoveRerollResponse.proto
+import "POGOProtos/Data/PokemonData.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemRareCandyResponse.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemXpBoostResponse.proto
+import "POGOProtos/Inventory/AppliedItems.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\EggIncubatorAttributes.proto
+import "POGOProtos/Inventory/EggIncubatorType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\FoodAttributes.proto
+import "POGOProtos/Enums/ItemEffect.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\IncenseAttributes.proto
+import "POGOProtos/Enums/PokemonType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\InventoryUpgradeAttributes.proto
+import "POGOProtos/Inventory/InventoryUpgradeType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\PokeballAttributes.proto
+import "POGOProtos/Enums/ItemEffect.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Pokemon\EncounterAttributes.proto
+import "POGOProtos/Enums/PokemonMovementType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Pokemon\EvolutionBranch.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Pokemon\EvolutionBranch.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\AvatarCustomizationSettings.proto
+import "POGOProtos/Data/Player/PlayerAvatarType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\AvatarCustomizationSettings.proto
+import "POGOProtos/Enums/BadgeType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\AvatarCustomizationSettings.proto
+import "POGOProtos/Enums/Slot.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\BadgeSettings.proto
+import "POGOProtos/Enums/BadgeType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\BadgeSettings.proto
+import "POGOProtos/Data/Badge/BadgeCaptureReward.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\CameraSettings.proto
+import "POGOProtos/Enums/CameraTarget.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\CameraSettings.proto
+import "POGOProtos/Enums/CameraInterpolation.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\FormSettings.proto
+import "POGOProtos/Enums/Form.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\FormSettings.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\GenderSettings.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\GenderSettings.proto
+import "POGOProtos/Settings/Master/Pokemon/PokemonGenderSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\IapItemDisplay.proto
+import "POGOProtos/Enums/IapItemCategory.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\IapItemDisplay.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+import "POGOProtos/Enums/ItemCategory.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+import "POGOProtos/Inventory/Item/ItemId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+import "POGOProtos/Inventory/Item/ItemType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+import "POGOProtos/Settings/Master/Item/FoodAttributes.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+import "POGOProtos/Settings/Master/Item/PotionAttributes.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+import "POGOProtos/Settings/Master/Item/ReviveAttributes.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+import "POGOProtos/Settings/Master/Item/BattleAttributes.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+import "POGOProtos/Settings/Master/Item/IncenseAttributes.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+import "POGOProtos/Settings/Master/Item/PokeballAttributes.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+import "POGOProtos/Settings/Master/Item/FortModifierAttributes.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+import "POGOProtos/Settings/Master/Item/EggIncubatorAttributes.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+import "POGOProtos/Settings/Master/Item/ExperienceBoostAttributes.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+import "POGOProtos/Settings/Master/Item/InventoryUpgradeAttributes.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\MoveSettings.proto
+import "POGOProtos/Enums/PokemonType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\MoveSettings.proto
+import "POGOProtos/Enums/PokemonMove.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\PokemonSettings.proto
+import "POGOProtos/Enums/PokemonId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\PokemonSettings.proto
+import "POGOProtos/Enums/PokemonRarity.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\PokemonSettings.proto
+import "POGOProtos/Enums/PokemonType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\PokemonSettings.proto
+import "POGOProtos/Enums/PokemonMove.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\PokemonSettings.proto
+import "POGOProtos/Enums/PokemonFamilyId.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\PokemonSettings.proto
+import "POGOProtos/Settings/Master/Pokemon/StatsAttributes.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\PokemonSettings.proto
+import "POGOProtos/Settings/Master/Pokemon/CameraAttributes.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\PokemonSettings.proto
+import "POGOProtos/Settings/Master/Pokemon/EncounterAttributes.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\PokemonSettings.proto
+import "POGOProtos/Settings/Master/Pokemon/EvolutionBranch.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\QuestSettings.proto
+import "POGOProtos/Enums/QuestType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\QuestSettings.proto
+import "POGOProtos/Settings/Master/Quest/DailyQuestSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\TypeEffectiveSettings.proto
+import "POGOProtos/Enums/PokemonType.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GlobalSettings.proto
+import "POGOProtos/Settings/EventSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GlobalSettings.proto
+import "POGOProtos/Settings/FestivalSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GlobalSettings.proto
+import "POGOProtos/Settings/FortSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GlobalSettings.proto
+import "POGOProtos/Settings/GpsSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GlobalSettings.proto
+import "POGOProtos/Settings/InventorySettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GlobalSettings.proto
+import "POGOProtos/Settings/LevelSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GlobalSettings.proto
+import "POGOProtos/Settings/MapSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GlobalSettings.proto
+import "POGOProtos/Settings/NewsSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GlobalSettings.proto
+import "POGOProtos/Settings/NotificationSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GlobalSettings.proto
+import "POGOProtos/Settings/PasscodeSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GlobalSettings.proto
+import "POGOProtos/Settings/SfidaSettings.proto";
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GlobalSettings.proto
+import "POGOProtos/Settings/TranslationSettings.proto";

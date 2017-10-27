@@ -6,9 +6,9 @@ import "POGOProtos/Data/PokemonDisplay.proto";
 
 message CatchPokemonLogEntry {
 	.POGOProtos.Data.Logs.CatchPokemonLogEntry.Result result = 1;
-	.POGOProtos.Enums.PokemonId pokemon_id = 2;
+	.POGOProtos.Enums.PokemonId pokedex_number = 2;
 	int32 combat_points = 3;
-	fixed64 pokemon_data_id = 4;
+	fixed64 pokemon_id = 4;
 	.POGOProtos.Data.PokemonDisplay pokemon_display = 5;
 
 	enum Result {

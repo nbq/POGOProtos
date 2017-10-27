@@ -1,0 +1,668 @@
+message AvatarCustomization
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Avatar\AvatarCustomization.proto
+message AvatarItem
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Avatar\AvatarItem.proto
+message AwardedGymBadge
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Badge\AwardedGymBadge.proto
+message BadgeCaptureReward
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Badge\BadgeCaptureReward.proto
+message GymBadgeStats
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Badge\GymBadgeStats.proto
+message Battle
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\Battle.proto
+message BattleAction
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleAction.proto
+enum BattleActionType
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleActionType.proto
+message BattleLog
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleLog.proto
+message BattleParticipant
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleParticipant.proto
+message BattlePokemonInfo
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattlePokemonInfo.proto
+message BattleResults
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleResults.proto
+enum BattleState
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleState.proto
+enum BattleType
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleType.proto
+message BattleUpdate
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Battle\BattleUpdate.proto
+message CaptureAward
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Capture\CaptureAward.proto
+message CaptureProbability
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Capture\CaptureProbability.proto
+message GymDefender
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Gym\GymDefender.proto
+message GymMembership
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Gym\GymMembership.proto
+message GymState
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Gym\GymState.proto
+message GymStatusAndDefenders
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Gym\GymStatusAndDefenders.proto
+message ActionLogEntry
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Logs\ActionLogEntry.proto
+message BuddyPokemonLogEntry
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Logs\BuddyPokemonLogEntry.proto
+message CatchPokemonLogEntry
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Logs\CatchPokemonLogEntry.proto
+message FortSearchLogEntry
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Logs\FortSearchLogEntry.proto
+message ContactSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\ContactSettings.proto
+message Currency
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\Currency.proto
+message DailyBonus
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\DailyBonus.proto
+message EquippedBadge
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\EquippedBadge.proto
+message PlayerAvatar
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\PlayerAvatar.proto
+enum PlayerAvatarType
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\PlayerAvatarType.proto
+message PlayerCamera
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\PlayerCamera.proto
+message PlayerCurrency
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\PlayerCurrency.proto
+message PlayerPublicProfile
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\PlayerPublicProfile.proto
+message PlayerStats
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Player\PlayerStats.proto
+message DailyQuest
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Quests\DailyQuest.proto
+message Quest
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Quests\Quest.proto
+message EventInfo
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Raid\EventInfo.proto
+message PlayerRaidInfo
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Raid\PlayerRaidInfo.proto
+message Raid
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Raid\Raid.proto
+message RaidInfo
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Raid\RaidInfo.proto
+message PokeCandy
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Redeem\PokeCandy.proto
+message RedeemedAvatarItem
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Redeem\RedeemedAvatarItem.proto
+message RedeemedItem
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\Redeem\RedeemedItem.proto
+message AssetDigestEntry
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\AssetDigestEntry.proto
+message BackgroundToken
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\BackgroundToken.proto
+message BuddyPokemon
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\BuddyPokemon.proto
+message ClientVersion
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\ClientVersion.proto
+message DownloadUrlEntry
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\DownloadUrlEntry.proto
+message FoodValue
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\FoodValue.proto
+message PlayerBadge
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PlayerBadge.proto
+message PlayerData
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PlayerData.proto
+message PokedexEntry
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokedexEntry.proto
+message PokemonData
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokemonData.proto
+message PokemonDisplay
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\PokemonDisplay.proto
+message RedeemPasscodeReward
+D:\pgofiles\POGOProtos\src\POGOProtos\Data\RedeemPasscodeReward.proto
+enum ActivityType
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\ActivityType.proto
+enum BadgeType
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\BadgeType.proto
+enum CameraInterpolation
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\CameraInterpolation.proto
+enum CameraTarget
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\CameraTarget.proto
+enum Costume
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\Costume.proto
+enum EncounterType
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\EncounterType.proto
+enum Filter
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\Filter.proto
+enum Form
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\Form.proto
+enum Gender
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\Gender.proto
+enum GymBadgeType
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\GymBadgeType.proto
+enum HoloIapItemCategory
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\IapItemCategory.proto
+enum ItemCategory
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\ItemCategory.proto
+enum ItemEffect
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\ItemEffect.proto
+enum NotificationCategory
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\NotificationCategory.proto
+enum NotificationState
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\NotificationState.proto
+enum Platform
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\Platform.proto
+enum PokemonFamilyId
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\PokemonFamilyId.proto
+enum PokemonId
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\PokemonId.proto
+enum PokemonMove
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\PokemonMove.proto
+enum PokemonMovementType
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\PokemonMovementType.proto
+enum PokemonRarity
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\PokemonRarity.proto
+enum PokemonType
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\PokemonType.proto
+enum QuestType
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\QuestType.proto
+enum RaidLevel
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\RaidLevel.proto
+enum Slot
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\Slot.proto
+enum TeamColor
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\TeamColor.proto
+enum TutorialState
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\TutorialState.proto
+enum VariableName
+D:\pgofiles\POGOProtos\src\POGOProtos\Enums\VariableName.proto
+message ItemAward
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\Item\ItemAward.proto
+message ItemData
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\Item\ItemData.proto
+enum ItemId
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\Item\ItemId.proto
+enum ItemType
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\Item\ItemType.proto
+message AppliedItem
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\AppliedItem.proto
+message AppliedItems
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\AppliedItems.proto
+message Candy
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\Candy.proto
+message EggIncubator
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\EggIncubator.proto
+message EggIncubators
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\EggIncubators.proto
+enum EggIncubatorType
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\EggIncubatorType.proto
+message ExclusiveTicketInfo
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\ExclusiveTicketInfo.proto
+message InventoryDelta
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryDelta.proto
+message InventoryItem
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItem.proto
+message InventoryItemData
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryItemData.proto
+message InventoryKey
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryKey.proto
+message InventoryUpgrade
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryUpgrade.proto
+message InventoryUpgrades
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryUpgrades.proto
+enum InventoryUpgradeType
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\InventoryUpgradeType.proto
+message Loot
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\Loot.proto
+message LootItem
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\LootItem.proto
+message RaidTicket
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\RaidTicket.proto
+message RaidTickets
+D:\pgofiles\POGOProtos\src\POGOProtos\Inventory\RaidTickets.proto
+message FortData
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortData.proto
+message FortLureInfo
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortLureInfo.proto
+message FortModifier
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortModifier.proto
+enum FortRenderingType
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortRenderingType.proto
+enum FortSponsor
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortSponsor.proto
+message FortSummary
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortSummary.proto
+enum FortType
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\FortType.proto
+message GymDisplay
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\GymDisplay.proto
+message GymEvent
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Fort\GymEvent.proto
+message LobbyPokemon
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Pokemon\LobbyPokemon.proto
+message MapPokemon
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Pokemon\MapPokemon.proto
+message MotivatedPokemon
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Pokemon\MotivatedPokemon.proto
+message NearbyPokemon
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Pokemon\NearbyPokemon.proto
+message WildPokemon
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\Pokemon\WildPokemon.proto
+message MapCell
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\MapCell.proto
+enum MapObjectsStatus
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\MapObjectsStatus.proto
+message SpawnPoint
+D:\pgofiles\POGOProtos\src\POGOProtos\Map\SpawnPoint.proto
+message AuthTicket
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Envelopes\AuthTicket.proto
+message RequestEnvelope
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Envelopes\RequestEnvelope.proto
+message ResponseEnvelope
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Envelopes\ResponseEnvelope.proto
+message Signature
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Envelopes\Signature.proto
+message UnknownMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Envelopes\Signature.proto
+message BuyItemAndroidRequest
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Platform\Requests\BuyItemAndroidRequest.proto
+message BuyItemPokeCoinsRequest
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Platform\Requests\BuyItemPokeCoinsRequest.proto
+message GetStoreItemsRequest
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Platform\Requests\GetStoreItemsRequest.proto
+message SendEncryptedSignatureRequest
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Platform\Requests\SendEncryptedSignatureRequest.proto
+message UnknownPtr8Request
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Platform\Requests\UnknownPtr8Request.proto
+message BuyItemAndroidResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Platform\Responses\BuyItemAndroidResponse.proto
+message BuyItemPokeCoinsResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Platform\Responses\BuyItemPokeCoinsResponse.proto
+message GetStoreItemsResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Platform\Responses\GetStoreItemsResponse.proto
+message SendEncryptedSignatureResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Platform\Responses\SendEncryptedSignatureResponse.proto
+message UnknownPtr8Response
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Platform\Responses\UnknownPtr8Response.proto
+enum PlatformRequestType
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Platform\PlatformRequestType.proto
+message AddFortModifierMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\AddFortModifierMessage.proto
+message AttackGymMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\AttackGymMessage.proto
+message CatchPokemonMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\CatchPokemonMessage.proto
+message CheckAwardedBadgesMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\CheckAwardedBadgesMessage.proto
+message CheckChallengeMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\CheckChallengeMessage.proto
+message ClaimCodenameMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\ClaimCodenameMessage.proto
+message CollectDailyBonusMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\CollectDailyBonusMessage.proto
+message CollectDailyDefenderBonusMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\CollectDailyDefenderBonusMessage.proto
+message DiskEncounterMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\DiskEncounterMessage.proto
+message DownloadItemTemplatesMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\DownloadItemTemplatesMessage.proto
+message DownloadRemoteConfigVersionMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\DownloadRemoteConfigVersionMessage.proto
+message DownloadSettingsMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\DownloadSettingsMessage.proto
+message EchoMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\EchoMessage.proto
+message EncounterMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\EncounterMessage.proto
+message EncounterTutorialCompleteMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\EncounterTutorialCompleteMessage.proto
+message EquipBadgeMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\EquipBadgeMessage.proto
+message EvolvePokemonMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\EvolvePokemonMessage.proto
+message FortDeployPokemonMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\FortDeployPokemonMessage.proto
+message FortDetailsMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\FortDetailsMessage.proto
+message FortRecallPokemonMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\FortRecallPokemonMessage.proto
+message FortSearchMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\FortSearchMessage.proto
+message GetAssetDigestMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GetAssetDigestMessage.proto
+message GetBuddyWalkedMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GetBuddyWalkedMessage.proto
+message GetDownloadUrlsMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GetDownloadUrlsMessage.proto
+message GetGymBadgeDetailsMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GetGymBadgeDetailsMessage.proto
+message GetGymDetailsMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GetGymDetailsMessage.proto
+message GetHatchedEggsMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GetHatchedEggsMessage.proto
+message GetInboxMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GetInboxMessage.proto
+message GetIncensePokemonMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GetIncensePokemonMessage.proto
+message GetInventoryMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GetInventoryMessage.proto
+message GetMapObjectsMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GetMapObjectsMessage.proto
+message GetPlayerMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GetPlayerMessage.proto
+message GetPlayerProfileMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GetPlayerProfileMessage.proto
+message GymDeployMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GymDeployMessage.proto
+message GymFeedPokemonMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GymFeedPokemonMessage.proto
+message GymGetInfoMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\GymGetInfoMessage.proto
+message IncenseEncounterMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\IncenseEncounterMessage.proto
+message LevelUpRewardsMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\LevelUpRewardsMessage.proto
+message ListAvatarCustomizationsMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\ListAvatarCustomizationsMessage.proto
+message ListGymBadgesMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\ListGymBadgesMessage.proto
+message MarkTutorialCompleteMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\MarkTutorialCompleteMessage.proto
+message NicknamePokemonMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\NicknamePokemonMessage.proto
+message RegisterPushNotificationMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\PlatformClientActionsMessage.proto
+message UpdateNotificationStatusMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\PlatformClientActionsMessage.proto
+message OptOutPushNotificationCategoryMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\PlatformClientActionsMessage.proto
+message PushNotificationRegistryMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\PushNotificationRegistryMessage.proto
+message RecycleInventoryItemMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\RecycleInventoryItemMessage.proto
+message RegisterBackgroundDeviceMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\RegisterBackgroundDeviceMessage.proto
+message ReleasePokemonMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\ReleasePokemonMessage.proto
+message SetAvatarItemAsViewedMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\SetAvatarItemAsViewedMessage.proto
+message SetAvatarMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\SetAvatarMessage.proto
+message SetBuddyPokemonMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\SetBuddyPokemonMessage.proto
+message SetContactSettingsMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\SetContactSettingsMessage.proto
+message SetFavoritePokemonMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\SetFavoritePokemonMessage.proto
+message SetPlayerTeamMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\SetPlayerTeamMessage.proto
+message SfidaActionLogMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\SfidaActionLogMessage.proto
+message SfidaRegistrationMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\SfidaRegistrationMessage.proto
+message StartGymBattleMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\StartGymBattleMessage.proto
+message UpdateNotificationMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UpdateNotificationMessage.proto
+message UpgradePokemonMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UpgradePokemonMessage.proto
+message UseIncenseMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseIncenseMessage.proto
+message UseItemCaptureMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemCaptureMessage.proto
+message UseItemEggIncubatorMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemEggIncubatorMessage.proto
+message UseItemEncounterMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemEncounterMessage.proto
+message UseItemGymMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemGymMessage.proto
+message UseItemMoveRerollMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemMoveRerollMessage.proto
+message UseItemPotionMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemPotionMessage.proto
+message UseItemRareCandyMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemRareCandyMessage.proto
+message UseItemReviveMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemReviveMessage.proto
+message UseItemXpBoostMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\UseItemXpBoostMessage.proto
+message VerifyChallengeMessage
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Messages\VerifyChallengeMessage.proto
+message Request
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\Request.proto
+enum RequestType
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Requests\RequestType.proto
+message AddFortModifierResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\AddFortModifierResponse.proto
+message AttackGymResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\AttackGymResponse.proto
+message CatchPokemonResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\CatchPokemonResponse.proto
+message CheckAwardedBadgesResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\CheckAwardedBadgesResponse.proto
+message CheckChallengeResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\CheckChallengeResponse.proto
+message CheckCodenameAvailableResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\CheckCodenameAvailableResponse.proto
+message ClaimCodenameResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\ClaimCodenameResponse.proto
+message CollectDailyBonusResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\CollectDailyBonusResponse.proto
+message CollectDailyDefenderBonusResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\CollectDailyDefenderBonusResponse.proto
+message DiskEncounterResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DiskEncounterResponse.proto
+message DownloadItemTemplatesResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadItemTemplatesResponse.proto
+message DownloadRemoteConfigVersionResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadRemoteConfigVersionResponse.proto
+message DownloadSettingsResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\DownloadSettingsResponse.proto
+message EchoResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\EchoResponse.proto
+message EncounterResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\EncounterResponse.proto
+message EncounterTutorialCompleteResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\EncounterTutorialCompleteResponse.proto
+message EquipBadgeResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\EquipBadgeResponse.proto
+message EvolvePokemonResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\EvolvePokemonResponse.proto
+message FortDeployPokemonResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortDeployPokemonResponse.proto
+message FortDetailsResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortDetailsResponse.proto
+message FortRecallPokemonResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortRecallPokemonResponse.proto
+message FortSearchResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\FortSearchResponse.proto
+message GetAssetDigestResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetAssetDigestResponse.proto
+message GetBuddyWalkedResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetBuddyWalkedResponse.proto
+message GetDownloadUrlsResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetDownloadUrlsResponse.proto
+message GetGymBadgeDetailsResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetGymBadgeDetailsResponse.proto
+message GetGymDetailsResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetGymDetailsResponse.proto
+message GetHatchedEggsResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetHatchedEggsResponse.proto
+message GetInboxResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetInboxResponse.proto
+message GetIncensePokemonResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetIncensePokemonResponse.proto
+message GetInventoryResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetInventoryResponse.proto
+message GetMapObjectsResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetMapObjectsResponse.proto
+message GetPlayerProfileResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetPlayerProfileResponse.proto
+message GetPlayerResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GetPlayerResponse.proto
+message GymDeployResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GymDeployResponse.proto
+message GymFeedPokemonResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GymFeedPokemonResponse.proto
+message GymGetInfoResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\GymGetInfoResponse.proto
+message IncenseEncounterResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\IncenseEncounterResponse.proto
+message LevelUpRewardsResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\LevelUpRewardsResponse.proto
+message ListAvatarCustomizationsResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\ListAvatarCustomizationsResponse.proto
+message ListGymBadgesResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\ListGymBadgesResponse.proto
+message MarkTutorialCompleteResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\MarkTutorialCompleteResponse.proto
+message NicknamePokemonResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\NicknamePokemonResponse.proto
+message RegisterPushNotificationResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\PlatformClientActionsResponse.proto
+message UpdateNotificationStatusResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\PlatformClientActionsResponse.proto
+message OptOutPushNotificationCategoryResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\PlatformClientActionsResponse.proto
+message PushNotificationRegistryResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\PushNotificationRegistryResponse.proto
+message RecycleInventoryItemResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\RecycleInventoryItemResponse.proto
+message RegisterBackgroundDeviceResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\RegisterBackgroundDeviceResponse.proto
+message ReleasePokemonResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\ReleasePokemonResponse.proto
+message SetAvatarItemAsViewedResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\SetAvatarItemAsViewedResponse.proto
+message SetAvatarResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\SetAvatarResponse.proto
+message SetBuddyPokemonResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\SetBuddyPokemonResponse.proto
+message SetContactSettingsResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\SetContactSettingsResponse.proto
+message SetFavoritePokemonResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\SetFavoritePokemonResponse.proto
+message SetPlayerTeamResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\SetPlayerTeamResponse.proto
+message SfidaActionLogResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\SfidaActionLogResponse.proto
+message SfidaRegistrationResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\SfidaRegistrationResponse.proto
+message StartGymBattleResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\StartGymBattleResponse.proto
+message UpdateNotificationResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UpdateNotificationResponse.proto
+message UpgradePokemonResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UpgradePokemonResponse.proto
+message UseIncenseResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseIncenseResponse.proto
+message UseItemCaptureResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemCaptureResponse.proto
+message UseItemEggIncubatorResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemEggIncubatorResponse.proto
+message UseItemEncounterResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemEncounterResponse.proto
+message UseItemGymResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemGymResponse.proto
+message UseItemMoveRerollResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemMoveRerollResponse.proto
+message UseItemPotionResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemPotionResponse.proto
+message UseItemRareCandyResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemRareCandyResponse.proto
+message UseItemReviveResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemReviveResponse.proto
+message UseItemXpBoostResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\UseItemXpBoostResponse.proto
+message VerifyChallengeResponse
+D:\pgofiles\POGOProtos\src\POGOProtos\Networking\Responses\VerifyChallengeResponse.proto
+message BattleAttributes
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\BattleAttributes.proto
+message EggIncubatorAttributes
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\EggIncubatorAttributes.proto
+message ExperienceBoostAttributes
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\ExperienceBoostAttributes.proto
+message FoodAttributes
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\FoodAttributes.proto
+message FortModifierAttributes
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\FortModifierAttributes.proto
+message IncenseAttributes
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\IncenseAttributes.proto
+message InventoryUpgradeAttributes
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\InventoryUpgradeAttributes.proto
+message PokeballAttributes
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\PokeballAttributes.proto
+message PotionAttributes
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\PotionAttributes.proto
+message ReviveAttributes
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Item\ReviveAttributes.proto
+message CameraAttributes
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Pokemon\CameraAttributes.proto
+message EncounterAttributes
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Pokemon\EncounterAttributes.proto
+message EvolutionBranch
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Pokemon\EvolutionBranch.proto
+message PokemonGenderSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Pokemon\PokemonGenderSettings.proto
+message StatsAttributes
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Pokemon\StatsAttributes.proto
+message DailyQuestSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\Quest\DailyQuestSettings.proto
+message AvatarCustomizationSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\AvatarCustomizationSettings.proto
+message BadgeSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\BadgeSettings.proto
+message CameraSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\CameraSettings.proto
+message EncounterSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\EncounterSettings.proto
+message EquippedBadgeSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\EquippedBadgeSettings.proto
+message FormSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\FormSettings.proto
+message GenderSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\GenderSettings.proto
+message GymBadgeGmtSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\GymBadgeGmtSettings.proto
+message GymBattleSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\GymBattleSettings.proto
+message GymLevelSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\GymLevelSettings.proto
+message IapItemDisplay
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\IapItemDisplay.proto
+message IapSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\IapSettings.proto
+message ItemSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\ItemSettings.proto
+message MoveSequenceSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\MoveSequenceSettings.proto
+message MoveSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\MoveSettings.proto
+message PlayerLevelSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\PlayerLevelSettings.proto
+message PokemonSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\PokemonSettings.proto
+message PokemonUpgradeSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\PokemonUpgradeSettings.proto
+message QuestSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\QuestSettings.proto
+message TypeEffectiveSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\Master\TypeEffectiveSettings.proto
+message DownloadSettingsAction
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\DownloadSettingsAction.proto
+message EventSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\EventSettings.proto
+message FestivalSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\FestivalSettings.proto
+message FortSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\FortSettings.proto
+message GlobalSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GlobalSettings.proto
+message GpsSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\GpsSettings.proto
+message InventorySettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\InventorySettings.proto
+message LevelSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\LevelSettings.proto
+message MapSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\MapSettings.proto
+message NewsSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\NewsSettings.proto
+message NotificationSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\NotificationSettings.proto
+message PasscodeSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\PasscodeSettings.proto
+message SfidaSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\SfidaSettings.proto
+message TranslationSettings
+D:\pgofiles\POGOProtos\src\POGOProtos\Settings\TranslationSettings.proto
