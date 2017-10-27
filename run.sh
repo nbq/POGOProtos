@@ -1,12 +1,12 @@
 #!/bin/bash
 
 rm -rf /src/pogoprotos/
-git clone -b master https://github.com/nbq/POGOProtos /src/pogoprotos/
+git clone -b 0.79.2-Build https://github.com/nbq/POGOProtos /src/pogoprotos/
 
 rm -rf /src/pgoapi/
 git clone https://github.com/MerlionRock/pgoapi /src/pgoapi/
 
-cp -F /src/pogoprotos/run.sh /src/run.sh
+cp -f /src/pogoprotos/run.sh /src/run.sh
 chmod +x /src/run.sh
 
 cd /src/pogoprotos/
