@@ -1,22 +1,10 @@
 #!/bin/bash
 
 rm -rf /src/pogoprotos/
-git clone -b 0.81.1 https://github.com/nbq/POGOProtos /src/pogoprotos/
-
-rm -rf /src/pgoapi/
-git clone https://github.com/MerlionRock/pgoapi /src/pgoapi/
-
-rm -rf /src/run.sh
-cp -f /src/pogoprotos/run.sh /src/run.sh
-chmod +x /src/run.sh
+git clone https://github.com/nbq/POGOProtos /src/pogoprotos/
 
 cd /src/pogoprotos/
 python compile.py python
-tar -zcvf out.tar.gz out
+tar -zcf out.tar.gz out
 cp out.tar.gz /tmp/
-
-cd out
-cp -Rf pogoprotos ../../pgoapi/pgoapi/protos
 cd /src
-tar -zcvf pgoapi.tar.gz pgoapi
-cp pgoapi.tar.gz /tmp/

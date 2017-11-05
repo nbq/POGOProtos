@@ -16,7 +16,6 @@ FROM alpine
 
 ARG BUILD_REPO=nbq/POGOProtos
 ARG BUILD_BRANCH=master
-ARG BUILD_REPO2=MerlionRock/pgoapi
 
 LABEL build_repo=$BUILD_REPO build_branch=$BUILD_BRANCH
 
@@ -56,7 +55,6 @@ RUN set -ex && apk --no-cache add --virtual .pb-build make cmake autoconf automa
 WORKDIR /defs
 
 RUN git clone -b $BUILD_BRANCH https://github.com/$BUILD_REPO /src/pogoprotos/
-RUN git clone https://github.com/$BUILD_REPO2 /src/pgoapi/
 RUN cp /src/pogoprotos/run.sh /src/run.sh
 RUN chmod +x /src/run.sh
 
