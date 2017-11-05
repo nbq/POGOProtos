@@ -19,4 +19,18 @@ message BattleAction {
 	int64 damage_windows_end_timestamp_ms = 12;
 	.POGOProtos.Data.Battle.BattleParticipant player_left = 13;
 	fixed64 target_pokemon_id = 14;
+
+	enum ActionType {
+		UNSET = 0;
+		ATTACK = 1;
+		DODGE = 2;
+		SPECIAL_ATTACK = 3;
+		SWAP_POKEMON = 4;
+		FAINT = 5;
+		PLAYER_JOIN = 6;
+		PLAYER_QUIT = 7;
+		VICTORY = 8;
+		DEFEAT = 9;
+		TIMED_OUT = 10;
+	}
 }

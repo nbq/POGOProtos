@@ -1,7 +1,6 @@
 syntax = "proto3";
 package POGOProtos.Networking.Responses;
 
-// TODO: Might be incorrect, please test.
 message CheckCodenameAvailableResponse {
 	string codename = 1;
 	string user_message = 2;

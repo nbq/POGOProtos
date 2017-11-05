@@ -10,3 +10,11 @@ tmp/
 
 # Backup files
 *~
+
+# Autogen Files
+temp_out
+output.txt
+proto_import.txt
+proto_index.txt
+proto_missing.txt
+proto_types.txt
