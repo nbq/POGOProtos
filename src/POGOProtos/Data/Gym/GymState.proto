@@ -5,7 +5,7 @@ import "POGOProtos/Map/Fort/FortData.proto";
 import "POGOProtos/Data/Gym/GymMembership.proto";
 
 message GymState {
-	.POGOProtos.Map.Fort.FortData fort_map_data = 1;
-	repeated .POGOProtos.Data.Gym.GymMembership gym_membership = 2;
+	.POGOProtos.Map.Fort.FortData fort_data = 1;
+	repeated .POGOProtos.Data.Gym.GymMembership memberships = 2;
 	bool deploy_lockout = 3;
 }

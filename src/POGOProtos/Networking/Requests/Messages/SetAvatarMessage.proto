@@ -4,5 +4,5 @@ package POGOProtos.Networking.Requests.Messages;
 import "POGOProtos/Data/Player/PlayerAvatar.proto";
 
 message SetAvatarMessage {
-	.POGOProtos.Data.Player.PlayerAvatar player_avatar_proto = 2;
+	.POGOProtos.Data.Player.PlayerAvatar player_avatar = 2;
 }

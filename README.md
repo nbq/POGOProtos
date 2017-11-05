@@ -1,9 +1,9 @@
-POGOProtos [![Build Status](https://travis-ci.org/AeonLucid/POGOProtos.svg?branch=master)](https://travis-ci.org/AeonLucid/POGOProtos) [![Code Climate](https://codeclimate.com/github/AeonLucid/POGOProtos/badges/gpa.svg)](https://codeclimate.com/github/AeonLucid/POGOProtos) [![Issue Count](https://codeclimate.com/github/AeonLucid/POGOProtos/badges/issue_count.svg)](https://codeclimate.com/github/AeonLucid/POGOProtos)
+POGOProtos [![Build Status](https://travis-ci.org/nbq/POGOProtos.svg?branch=master)](https://travis-ci.org/nbq/POGOProtos) 
 ===================
 
 This repository contains the [ProtoBuf](https://github.com/google/protobuf) `.proto` files needed to decode the PokémonGo RPC.
 
-If you want to know which messages are implemented right now, click [here](https://github.com/AeonLucid/POGOProtos/blob/master/src/POGOProtos/Networking/Requests/RequestType.proto).
+If you want to know which messages are implemented right now, click [here](https://github.com/nbq/POGOProtos/blob/master/src/POGOProtos/Networking/Requests/RequestType.proto).
 
 # Usage
 
@@ -13,6 +13,12 @@ We are following [semantic versioning](http://semver.org/) for POGOProtos.  Ever
 
 | Version      | Android       | iOS           | Extra                     |
 |--------------|---------------|---------------|---------------------------|
+| 2.19.0       | 0.81.1        | 1.51.1        |                           |
+| 2.18.1       | 0.79.3        | 1.49.3        |                           |
+| 2.18.0       | 0.79.2        | 1.49.2        |                           |
+| 2.17.0       | 0.77.1        | 1.47.1        |                           |
+| 2.16.0       | 0.75.0        | 1.45.0        |                           |
+| 2.15.0       | 0.73.1        | 1.43.1        | Updated protobuf to 3.4.0 |
 | 2.14.0       | 0.71.0        | 1.41.0        |                           |
 | 2.13.0       | 0.69.1        | 1.39.1        |                           |
 | 2.12.0       | 0.69.0        | 1.39.0        |                           |
@@ -35,13 +41,13 @@ We are following [semantic versioning](http://semver.org/) for POGOProtos.  Ever
 
 If you want to figure out the current version in an automated system, use this file.
 
-https://raw.githubusercontent.com/AeonLucid/POGOProtos/master/.current-version
+https://raw.githubusercontent.com/nbq/POGOProtos/master/.current-version
 
 *Note: This file will contain pre-release versions too.*
 
 ## Preparation
 
-Current recommended protoc version: "Protocol Buffers v3.3.0".
+Current recommended protoc version: "Protocol Buffers v3.4.0".
 
 You can find download links [here](https://github.com/google/protobuf/releases).
 

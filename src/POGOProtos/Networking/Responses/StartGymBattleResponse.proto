@@ -7,8 +7,8 @@ import "POGOProtos/Data/Battle/Battle.proto";
 
 message StartGymBattleResponse {
 	.POGOProtos.Networking.Responses.StartGymBattleResponse.Result result = 1;
-	int64 battle_start_ms = 2;
-	int64 battle_end_ms = 3;
+	int64 battle_start_timestamp_ms = 2;
+	int64 battle_end_timestamp_ms = 3;
 	string battle_id = 4;
 	.POGOProtos.Data.Battle.BattleParticipant defender = 5;
 	.POGOProtos.Data.Battle.BattleLog battle_log = 6;

@@ -5,8 +5,8 @@ import "POGOProtos/Enums/PokemonId.proto";
 import "POGOProtos/Data/PokemonDisplay.proto";
 
 message NearbyPokemon {
-	.POGOProtos.Enums.PokemonId pokedex_number = 1;
-	float distance_meters = 2;
+	.POGOProtos.Enums.PokemonId pokemon_id = 1;
+	float distance_in_meters = 2;
 	fixed64 encounter_id = 3;
 	string fort_id = 4;
 	string fort_image_url = 5;

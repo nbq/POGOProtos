@@ -5,6 +5,6 @@ import "POGOProtos/Settings/GlobalSettings.proto";
 
 message DownloadSettingsResponse {
 	string error = 1;
-	string sha1 = 2;
-	.POGOProtos.Settings.GlobalSettings values = 3;
+	string hash = 2;
+	.POGOProtos.Settings.GlobalSettings settings = 3;
 }

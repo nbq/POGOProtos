@@ -4,5 +4,5 @@ package POGOProtos.Networking.Requests.Messages;
 import "POGOProtos/Enums/BadgeType.proto";
 
 message EquipBadgeMessage {
-	.POGOProtos.Enums.BadgeType badge = 1;
+	.POGOProtos.Enums.BadgeType badge_type = 1;
 }

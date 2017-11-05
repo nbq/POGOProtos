@@ -4,8 +4,8 @@ package POGOProtos.Networking.Responses;
 import "POGOProtos/Data/PlayerData.proto";
 
 message SetAvatarResponse {
-	Status status = 1;
-	.POGOProtos.Data.PlayerData player = 2;
+	.POGOProtos.Networking.Responses.SetAvatarResponse.Status status = 1;
+	.POGOProtos.Data.PlayerData player_data = 2;
 
 	enum Status {
 		UNSET = 0;

@@ -8,19 +8,19 @@ import "POGOProtos/Map/Fort/FortType.proto";
 import "POGOProtos/Map/Fort/FortModifier.proto";
 
 message FortDetailsResponse {
-	string id = 1;
-	int32 team = 2;
-	repeated .POGOProtos.Data.PokemonData pokemon = 3;
+	string fort_id = 1;
+	.POGOProtos.Enums.TeamColor team_color = 2;
+	.POGOProtos.Data.PokemonData pokemon_data = 3;
 	string name = 4;
-	repeated string image_url = 5;
+	repeated string image_urls = 5;
 	int32 fp = 6;
 	int32 stamina = 7;
 	int32 max_stamina = 8;
-	.POGOProtos.Map.Fort.FortType fort_type = 9;
+	.POGOProtos.Map.Fort.FortType type = 9;
 	double latitude = 10;
 	double longitude = 11;
 	string description = 12;
-	repeated .POGOProtos.Map.Fort.FortModifier modifier = 13;
+	repeated .POGOProtos.Map.Fort.FortModifier modifiers = 13;
 	bool close_soon = 14;
 	string checkin_image_url = 15;
 	.POGOProtos.Data.Raid.EventInfo event_info = 16;

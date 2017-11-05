@@ -10,6 +10,11 @@ message GetPlayerProfileResponse {
 	repeated .POGOProtos.Data.PlayerBadge badges = 3;
 	.POGOProtos.Networking.Responses.GetPlayerProfileResponse.GymBadges gym_badges = 4;
 
+	message GymBadges {
+		repeated .POGOProtos.Data.Badge.AwardedGymBadge gym_badge = 1;
+		int32 total = 2;
+	}
+
 	enum Result {
 		UNSET = 0;
 		SUCCESS = 1;

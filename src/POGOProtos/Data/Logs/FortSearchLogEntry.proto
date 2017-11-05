@@ -3,6 +3,7 @@ package POGOProtos.Data.Logs;
 
 import "POGOProtos/Data/PokemonData.proto";
 import "POGOProtos/Inventory/Item/ItemData.proto";
+import "POGOProtos/Map/Fort/FortType.proto";
 
 message FortSearchLogEntry {
 	.POGOProtos.Data.Logs.FortSearchLogEntry.Result result = 1;

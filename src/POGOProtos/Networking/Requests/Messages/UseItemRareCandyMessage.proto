@@ -5,6 +5,6 @@ import "POGOProtos/Inventory/Item/ItemId.proto";
 import "POGOProtos/Enums/PokemonId.proto";
 
 message UseItemRareCandyMessage {
-	.POGOProtos.Inventory.Item.ItemId item = 1;
+	.POGOProtos.Inventory.Item.ItemId item_id = 1;
 	.POGOProtos.Enums.PokemonId pokemon_id = 2;
 }

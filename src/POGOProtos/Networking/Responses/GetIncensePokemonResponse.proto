@@ -6,12 +6,12 @@ import "POGOProtos/Data/PokemonDisplay.proto";
 
 message GetIncensePokemonResponse {
 	.POGOProtos.Networking.Responses.GetIncensePokemonResponse.Result result = 1;
-	.POGOProtos.Enums.PokemonId pokemon_type_id = 2;
-	double lat = 3;
-	double lng = 4;
+	.POGOProtos.Enums.PokemonId pokemon_id = 2;
+	double latitude = 3;
+	double longitude = 4;
 	string encounter_location = 5;
 	fixed64 encounter_id = 6;
-	int64 disappear_time_ms = 7;
+	int64 disappear_timestamp_ms = 7;
 	.POGOProtos.Data.PokemonDisplay pokemon_display = 8;
 
 	enum Result {

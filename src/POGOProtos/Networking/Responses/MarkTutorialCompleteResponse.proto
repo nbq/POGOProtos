@@ -5,5 +5,5 @@ import "POGOProtos/Data/PlayerData.proto";
 
 message MarkTutorialCompleteResponse {
 	bool success = 1;
-	.POGOProtos.Data.PlayerData player = 2;
+	.POGOProtos.Data.PlayerData player_data = 2;
 }

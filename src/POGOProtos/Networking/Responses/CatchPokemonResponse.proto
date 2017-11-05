@@ -4,15 +4,15 @@ package POGOProtos.Networking.Responses;
 import "POGOProtos/Data/Capture/CaptureAward.proto";
 
 message CatchPokemonResponse {
-	Status status = 1;
+	.POGOProtos.Networking.Responses.CatchPokemonResponse.CatchStatus status = 1;
 	double miss_percent = 2;
 	fixed64 captured_pokemon_id = 3;
-	.POGOProtos.Data.Capture.CaptureAward scores = 4;
+	.POGOProtos.Data.Capture.CaptureAward capture_award = 4;
 	.POGOProtos.Networking.Responses.CatchPokemonResponse.CaptureReason capture_reason = 5;
 	int32 display_pokedex_id = 6;
 	int32 throws_remaining = 7;
 
-	enum Status {
+	enum CatchStatus {
 		CATCH_ERROR = 0;
 		CATCH_SUCCESS = 1;
 		CATCH_ESCAPE = 2;

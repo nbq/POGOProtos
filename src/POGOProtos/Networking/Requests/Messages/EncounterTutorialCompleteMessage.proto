@@ -4,5 +4,5 @@ package POGOProtos.Networking.Requests.Messages;
 import "POGOProtos/Enums/PokemonId.proto";
 
 message EncounterTutorialCompleteMessage {
-	.POGOProtos.Enums.PokemonId pokedex_id = 1;
+	.POGOProtos.Enums.PokemonId pokemon_id = 1;
 }

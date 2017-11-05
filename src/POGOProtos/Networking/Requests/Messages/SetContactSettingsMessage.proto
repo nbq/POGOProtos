@@ -4,5 +4,5 @@ package POGOProtos.Networking.Requests.Messages;
 import "POGOProtos/Data/Player/ContactSettings.proto";
 
 message SetContactSettingsMessage {
-	.POGOProtos.Data.Player.ContactSettings contact_settings_proto = 1;
+	.POGOProtos.Data.Player.ContactSettings contact_settings = 1;
 }

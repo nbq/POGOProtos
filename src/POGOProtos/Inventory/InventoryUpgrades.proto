@@ -4,5 +4,5 @@ package POGOProtos.Inventory;
 import "POGOProtos/Inventory/InventoryUpgrade.proto";
 
 message InventoryUpgrades {
-	repeated .POGOProtos.Inventory.InventoryUpgrade inventory_upgrade = 1;
+	repeated InventoryUpgrade inventory_upgrades = 1;
 }

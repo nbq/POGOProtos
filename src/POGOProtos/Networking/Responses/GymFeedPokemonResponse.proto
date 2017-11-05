@@ -8,11 +8,11 @@ import "POGOProtos/Data/Gym/GymStatusAndDefenders.proto";
 message GymFeedPokemonResponse {
 	.POGOProtos.Networking.Responses.GymFeedPokemonResponse.Result result = 1;
 	.POGOProtos.Data.Gym.GymStatusAndDefenders gym_status_and_defenders = 2;
-	.POGOProtos.Data.Badge.AwardedGymBadge gym_badge = 3;
+	.POGOProtos.Data.Badge.AwardedGymBadge awarded_gym_badge = 3;
 	int32 stardust_awarded = 4;
 	int32 xp_awarded = 5;
 	int32 num_candy_awarded = 6;
-	.POGOProtos.Enums.PokemonFamilyId candy_family_id = 7;
+	.POGOProtos.Enums.PokemonFamilyId family_candy_id = 7;
 	int64 cooldown_complete = 8;
 
 	enum Result {

@@ -5,10 +5,11 @@ import "POGOProtos/Data/PokemonDisplay.proto";
 import "POGOProtos/Enums/PokemonId.proto";
 
 message MapPokemon {
-	string spawnpoint_id = 1;
+	string spawn_point_id = 1;
 	fixed64 encounter_id = 2;
-	.POGOProtos.Enums.PokemonId = 3;
-	int64 expiration_time_ms = 4;
+	.POGOProtos.Enums.PokemonId pokemon_id = 3;
+	// After this timestamp, the pokemon will be gone.
+	int64 expiration_timestamp_ms = 4;
 	double latitude = 5;
 	double longitude = 6;
 	.POGOProtos.Data.PokemonDisplay pokemon_display = 7;
