@@ -23,7 +23,7 @@ LABEL build_repo=$BUILD_REPO build_branch=$BUILD_BRANCH
 WORKDIR /usr/src/app
 VOLUME ["/usr/src/app/configs", "/usr/src/app/web"]
 
-RUN apk -U --no-cache add python py-pip tzdata ca-certificates wget bash mc git libstdc++ \
+RUN apk -U --no-cache add python py-pip tzdata ca-certificates wget bash mc git libstdc++ nano \
     && rm -rf /var/cache/apk/* \
     && find / -name '*.pyc' -o -name '*.pyo' | xargs -rn1 rm -f
 
