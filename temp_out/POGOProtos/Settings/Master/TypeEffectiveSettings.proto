@@ -1,9 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Settings.Master;
-
-import "POGOProtos/Enums/PokemonType.proto";
-
-message TypeEffectiveSettings {
-	.POGOProtos.Enums.PokemonType attack_type = 2;
-	repeated float attack_scalar = 1;
-}
