@@ -18,4 +18,4 @@ script:
   - ./compile.py python
   - ./compile_single.py -d -o out2
   - clang-format-3.8 -i -style file $(find src -name "*.proto")
-- git diff --exit-code
+  - git diff --exit-code
