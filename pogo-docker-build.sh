@@ -1,0 +1,1 @@
+docker build --build-arg BUILD_BRANCH=0.81.1 --build-arg BUILD_REPO=nbq/POGOProtos -t pokemongo-api .
